@@ -125,7 +125,8 @@ Inspiração de UX/organização (não é fonte de texto): https://www.todamater
 7. [ ] Ligar Firebase (Auth + Firestore) + regras de segurança
 8. [ ] Script/processo: importar conteúdo aberto → Firestore
 9. [x] Popular lote 1 na pasta: **todas as 14 matérias** (`acervo/`)
-10. [ ] Subir acervo no Firebase + criar base do app (Expo/GitHub)
+10. [x] Subir acervo no Firebase (Firestore: subjects / topics / contents)
+11. [ ] Criar base do app (Expo) + regras de segurança mais fechadas
 
 ---
 
@@ -154,5 +155,6 @@ Inspiração de UX/organização (não é fonte de texto): https://www.todamater
 
 1. [x] Mapear fontes e grade de História → `MAPEAMENTO-HISTORIA.md`  
 2. [x] Organizar textos na pasta → `acervo/` (**14 matérias**, lote 1)  
-3. Criar repo GitHub + app Expo + ligar Firebase.  
-4. Importar JSON do acervo → Firestore.
+3. [x] Repo GitHub + Firebase + upload Firestore  
+4. [x] Guia para Maria → `GUIA-DO-PROJETO.md`  
+5. Maria: clonar o repo e criar o app Expo (telas)

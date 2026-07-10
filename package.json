@@ -1,0 +1,27 @@
+{
+  "name": "guia-do-conhecimento",
+  "version": "1.0.0",
+  "description": "App de estudo (React Native / Expo) com acervo escolar no Firebase.",
+  "main": "index.js",
+  "scripts": {
+    "upload:acervo": "node scripts/upload-acervo-firestore.js",
+    "gerar:historia": "node scripts/gerar-acervo-historia.js",
+    "gerar:todas": "node scripts/gerar-acervo-todas.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahprojetossantos-wq/Guia-do-Conhecimento.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mahprojetossantos-wq/Guia-do-Conhecimento/issues"
+  },
+  "homepage": "https://github.com/mahprojetossantos-wq/Guia-do-Conhecimento#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "firebase-admin": "^14.1.0"
+  }
+}
