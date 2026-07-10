@@ -162,6 +162,7 @@ Lista completa: `LISTA-MATERIAS.md`
 2. Não apagar dados do Firestore sem combinar.
 3. O acervo em `acervo/` é backup; a fonte do app em produção é o **Firestore**.
 4. Em dúvida de produto/visual: você decide — o pai/agente ajudam na base técnica.
+5. **Agente:** ao fim de cada trabalho com mudanças, fazer **commit + push** (ver `.cursor/rules/git-commit-push.mdc`).
 
 ---
 

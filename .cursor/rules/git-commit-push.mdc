@@ -1,0 +1,24 @@
+---
+description: Sempre fazer commit e push ao final de cada trabalho neste projeto
+alwaysApply: true
+---
+
+# Git — commit e push ao fim do trabalho
+
+Neste repositório (**Guia do Conhecimento**), ao **terminar** uma tarefa que alterou arquivos:
+
+1. Rode `git status`, `git diff` e `git log -5 --oneline` (em paralelo).
+2. Faça **commit** das alterações relevantes (mensagem clara, em português ou inglês curto).
+3. Faça **`git push`** para `origin` (branch atual, em geral `main`).
+4. Confirme com `git status` que está limpo / sincronizado.
+
+## Regras
+
+- **Não** commitar `.env`, `secrets/`, service accounts nem chaves.
+- **Não** usar `--no-verify`, force push em `main`, nem alterar git config.
+- Se não houver mudanças, não criar commit vazio.
+- Se o push falhar por autenticação, avise o usuário com o erro e o que falta (login/token/colaborador).
+
+## Quando NÃO precisa esperar o usuário pedir
+
+Neste projeto, commit + push ao final do trabalho é o **padrão** — não espere o usuário dizer “faz commit” ou “dá push”, salvo se ele pedir explicitamente para **não** versionar ainda.
