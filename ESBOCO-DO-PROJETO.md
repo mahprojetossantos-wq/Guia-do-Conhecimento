@@ -33,7 +33,7 @@ O app (React Native) consome esse Firebase. A construção das telas fica com el
 |--------|------------|--------|
 | App | React Native (Expo) | A definir |
 | Backend / dados | Firebase (Firestore) | Projeto já criado |
-| Login | Firebase Auth | A definir |
+| Login | Firebase Auth | **Não no MVP** (fase 2, se precisar) |
 | Código | GitHub (conta nova) | Conta já criada |
 | Pasta local | `C:\Stoll-Pr\Guia do Conhecimento` | Em uso |
 | Segredos | `secrets/` + `.env` (ignorados pelo Git) | Service account Firebase guardada |
@@ -138,16 +138,14 @@ Inspiração de UX/organização (não é fonte de texto): https://www.todamater
   Motivo: ela está no 9º; cobre o ano atual, o anterior e o próximo.
 - **Primeira matéria a popular:** História.
 - **Lista das matérias:** ver `LISTA-MATERIAS.md` — **lote 1 de todas as 14 matérias já está em `acervo/`**.
+- **Login no MVP:** **não**. App abre direto no conteúdo. Auth fica para uma fase depois (favoritos/progresso por usuário).
 
 ### Ainda abertas
 
 1. App só Android ou também iOS?  
    → _______________
 
-2. Precisa de login na primeira versão?  
-   → _______________
-
-3. Nome do app?  
+2. Nome do app?  
    → Guia do Conhecimento / outro: _______________
 ---
 

@@ -15,6 +15,7 @@ Repo: https://github.com/mahprojetossantos-wq/Guia-do-Conhecimento
 | Firestore com o acervo | Pronto |
 | Conteúdos locais em `acervo/` | Pronto (cópia / backup) |
 | App (telas, navegação, visual) | **Sua parte** |
+| Login no MVP | **Não** — app abre direto no conteúdo |
 
 Você vai construir o **app Android** (projeto Expo). O conteúdo de estudo já está na nuvem.
 
@@ -150,7 +151,8 @@ Lista completa: `LISTA-MATERIAS.md`
 - [ ] Tela: lista de matérias
 - [ ] Tela: tópicos da matéria
 - [ ] Tela: ler o conteúdo (`body`)
-- [ ] (Depois) favoritos, progresso, busca, visual premium
+- [ ] (Depois) favoritos, progresso, busca, visual — e login se precisar salvar por pessoa
+- [ ] **Não precisa** de tela de login no MVP
 
 ---
 
