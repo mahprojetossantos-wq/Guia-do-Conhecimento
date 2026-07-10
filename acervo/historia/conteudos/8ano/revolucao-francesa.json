@@ -1,0 +1,30 @@
+{
+  "id": "content-h8-revolucao-francesa",
+  "topicId": "h8-revolucao-francesa",
+  "subjectId": "historia",
+  "slug": "revolucao-francesa",
+  "title": "Revolução Francesa e desdobramentos",
+  "summary": "1789: crise do Antigo Regime e lema liberdade, igualdade, fraternidade.",
+  "body": "## Por que estourou?\n\nA França do século XVIII tinha sociedade estamental (clero, nobreza, povo), crise financeira do Estado, fome, impostos injustos e influência das ideias iluministas.\n\n## Fases (visão escolar)\n\n1. **1789**: Convenção dos Estados Gerais → Assembleia Nacional; Queda da Bastilha; Declaração dos Direitos do Homem e do Cidadão\n2. Monarquia constitucional e radicalização\n3. **República**, Terror, depois Diretório\n4. Ascensão de **Napoleão Bonaparte**\n\n## Legado\n\n- Ideias de cidadania, soberania popular e direitos\n- Fim simbólico do Antigo Regime na França\n- Guerras napoleônicas espalharam e também contestaram essas transformações pela Europa\n- Ecoou nas independências americanas e em revoltas no Brasil colonial/imperial",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI04"
+  ],
+  "unit": "O mundo contemporâneo: o Antigo Regime em crise",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Revolução Francesa e desdobramentos\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Revolução Francesa (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_Francesa",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

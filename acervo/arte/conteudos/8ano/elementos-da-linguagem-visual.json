@@ -1,0 +1,28 @@
+{
+  "id": "content-a8-elementos",
+  "topicId": "a8-elementos",
+  "subjectId": "arte",
+  "slug": "elementos-da-linguagem-visual",
+  "title": "Elementos da linguagem visual",
+  "summary": "Ponto, linha, cor, textura, composição.",
+  "body": "## Visual\n\nElementos básicos da imagem. Observe obras e descreva composição antes de “gostei/não gostei”.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [],
+  "unit": "Fundamentos",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Elementos da linguagem visual\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Elementos da arte (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Elementos_da_arte",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

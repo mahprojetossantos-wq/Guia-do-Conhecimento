@@ -1,0 +1,28 @@
+{
+  "id": "content-f1-newton",
+  "topicId": "f1-newton",
+  "subjectId": "fisica",
+  "slug": "leis-de-newton",
+  "title": "Leis de Newton",
+  "summary": "Inércia, F = ma e ação-reação.",
+  "body": "## Três leis\n\n1) Inércia 2) F = m·a 3) Ação e reação. Diagrama de forças é o coração dos problemas.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Mecânica",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Leis de Newton\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Leis de Newton (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Leis_de_Newton",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

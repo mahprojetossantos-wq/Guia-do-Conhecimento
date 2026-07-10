@@ -1,0 +1,28 @@
+{
+  "id": "content-a8-musica",
+  "topicId": "a8-musica",
+  "subjectId": "arte",
+  "slug": "musica-ritmo-e-melodia",
+  "title": "Música: ritmo e melodia",
+  "summary": "Parâmetros do som.",
+  "body": "## Som\n\nAltura, intensidade, timbre, duração. Ritmo e melodia. Escute com atenção ativa.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [],
+  "unit": "Fundamentos",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Música: ritmo e melodia\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Música (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/M%C3%BAsica",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

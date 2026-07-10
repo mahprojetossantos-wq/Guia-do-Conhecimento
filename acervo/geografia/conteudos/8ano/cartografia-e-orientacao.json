@@ -1,0 +1,28 @@
+{
+  "id": "content-g8-cartografia",
+  "topicId": "g8-cartografia",
+  "subjectId": "geografia",
+  "slug": "cartografia-e-orientacao",
+  "title": "Cartografia e orientação",
+  "summary": "Mapas, escalas e coordenadas.",
+  "body": "## Mapas\n\nRepresentações do espaço com escala, legenda e projeção. Escala numérica e gráfica. Coordenadas: latitude e longitude.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [],
+  "unit": "8º ano — Natureza e sociedade",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Cartografia e orientação\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Cartografia (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Cartografia",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

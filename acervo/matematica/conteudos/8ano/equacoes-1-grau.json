@@ -1,0 +1,30 @@
+{
+  "id": "content-m8-equacoes",
+  "topicId": "m8-equacoes",
+  "subjectId": "matematica",
+  "slug": "equacoes-1-grau",
+  "title": "Equações do 1º grau",
+  "summary": "Resolver equações lineares e problemas.",
+  "body": "## Forma\n\nax + b = c. Isole x com operações inversas nos dois membros.\n\n## Problemas\n\nTraduza o enunciado em equação. Confira a resposta no contexto (idade, dinheiro, etc.).",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08MA09"
+  ],
+  "unit": "8º ano — Números e álgebra",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Equações do 1º grau\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Equação do primeiro grau (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Equa%C3%A7%C3%A3o_do_primeiro_grau",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

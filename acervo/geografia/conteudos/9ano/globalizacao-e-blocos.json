@@ -1,0 +1,29 @@
+{
+  "id": "content-g9-globalizacao",
+  "topicId": "g9-globalizacao",
+  "subjectId": "geografia",
+  "slug": "globalizacao-e-blocos",
+  "title": "Globalização e blocos econômicos",
+  "summary": "Fluxos mundiais e integração regional.",
+  "body": "## Globalização\n\nFluxos de capital, informação e pessoas. Blocos: UE, Mercosul, etc. Vencedores e excluídos do processo.",
+  "levels": [
+    "9ano",
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "9º ano — Brasil e globalização",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Globalização e blocos econômicos\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Globalização (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Globaliza%C3%A7%C3%A3o",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

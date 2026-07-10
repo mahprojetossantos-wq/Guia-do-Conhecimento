@@ -1,0 +1,28 @@
+{
+  "id": "content-q1-estequio",
+  "topicId": "q1-estequio",
+  "subjectId": "quimica",
+  "slug": "estequiometria-intro",
+  "title": "Estequiometria (intro)",
+  "summary": "Cálculos a partir de equações balanceadas.",
+  "body": "## Roteiro\n\nEquação balanceada → mol → massa/volume. Atenção a reagente limitante (introdução).",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Fundamentos",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Estequiometria (intro)\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Estequiometria (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Estequiometria",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "quimica",
+  "name": "Química",
+  "slug": "quimica",
+  "order": 8,
+  "levels": [
+    "1medio"
+  ],
+  "color": "#CA8A04",
+  "description": "Química do 1º colegial — átomo, tabela, ligações e reações.",
+  "updatedAt": "2026-07-10"
+}

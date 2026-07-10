@@ -1,0 +1,30 @@
+{
+  "id": "content-h8-indigenas-imperio",
+  "topicId": "h8-indigenas-imperio",
+  "subjectId": "historia",
+  "slug": "politicas-indigenistas-no-imperio",
+  "title": "Políticas indigenistas no Império",
+  "summary": "Tutela, catequese e violência contra povos indígenas.",
+  "body": "## Política oficial\n\nNo Império, a relação do Estado com povos indígenas misturou catequese, aldeamentos, tutela e, em muitos casos, violência e esbulho de terras.\n\n## Para estudar\n\nBuscar fontes que mostrem a perspectiva indígena e questionar o discurso “civilizatório” que justificava dominação.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI21"
+  ],
+  "unit": "O Brasil no século XIX",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Políticas indigenistas no Império\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Indígenas no Brasil (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Povos_ind%C3%ADgenas_no_Brasil",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

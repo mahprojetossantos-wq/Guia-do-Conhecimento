@@ -1,0 +1,12 @@
+{
+  "id": "sociologia",
+  "name": "Sociologia",
+  "slug": "sociologia",
+  "order": 12,
+  "levels": [
+    "1medio"
+  ],
+  "color": "#0F766E",
+  "description": "Introdução à Sociologia no 1º colegial.",
+  "updatedAt": "2026-07-10"
+}

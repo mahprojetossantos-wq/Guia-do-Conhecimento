@@ -1,0 +1,166 @@
+{
+  "subjectId": "lingua-portuguesa",
+  "generatedAt": "2026-07-10",
+  "totalTopics": 13,
+  "topics": [
+    {
+      "id": "p8-classes",
+      "subjectId": "lingua-portuguesa",
+      "title": "Classes de palavras",
+      "slug": "classes-de-palavras",
+      "unit": "8º ano — Língua e texto",
+      "order": 1,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08LP"
+      ]
+    },
+    {
+      "id": "p8-periodo",
+      "subjectId": "lingua-portuguesa",
+      "title": "Período simples e composto",
+      "slug": "periodo-simples-e-composto",
+      "unit": "8º ano — Língua e texto",
+      "order": 2,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "p8-coesao",
+      "subjectId": "lingua-portuguesa",
+      "title": "Coesão e coerência",
+      "slug": "coesao-e-coerencia",
+      "unit": "8º ano — Língua e texto",
+      "order": 3,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "p8-generos",
+      "subjectId": "lingua-portuguesa",
+      "title": "Gêneros textuais",
+      "slug": "generos-textuais",
+      "unit": "8º ano — Língua e texto",
+      "order": 4,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "p8-variacao",
+      "subjectId": "lingua-portuguesa",
+      "title": "Variação linguística",
+      "slug": "variacao-linguistica",
+      "unit": "8º ano — Língua e texto",
+      "order": 5,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "p9-figuras",
+      "subjectId": "lingua-portuguesa",
+      "title": "Figuras de linguagem",
+      "slug": "figuras-de-linguagem",
+      "unit": "9º ano — Interpretação e argumentação",
+      "order": 6,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "p9-funcoes",
+      "subjectId": "lingua-portuguesa",
+      "title": "Funções da linguagem",
+      "slug": "funcoes-da-linguagem",
+      "unit": "9º ano — Interpretação e argumentação",
+      "order": 7,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "p9-argumentacao",
+      "subjectId": "lingua-portuguesa",
+      "title": "Texto argumentativo",
+      "slug": "texto-argumentativo",
+      "unit": "9º ano — Interpretação e argumentação",
+      "order": 8,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "p9-intertextualidade",
+      "subjectId": "lingua-portuguesa",
+      "title": "Intertextualidade",
+      "slug": "intertextualidade",
+      "unit": "9º ano — Interpretação e argumentação",
+      "order": 9,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "p9-redacao",
+      "subjectId": "lingua-portuguesa",
+      "title": "Produção de redação",
+      "slug": "producao-de-redacao",
+      "unit": "9º ano — Interpretação e argumentação",
+      "order": 10,
+      "levels": [
+        "9ano",
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "p1-literariedade",
+      "subjectId": "lingua-portuguesa",
+      "title": "Literariedade e leitura literária",
+      "slug": "literariedade-e-leitura",
+      "unit": "1º médio — Aprofundamento",
+      "order": 11,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "p1-discurso",
+      "subjectId": "lingua-portuguesa",
+      "title": "Tipos de discurso",
+      "slug": "tipos-de-discurso",
+      "unit": "1º médio — Aprofundamento",
+      "order": 12,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "p1-semantica",
+      "subjectId": "lingua-portuguesa",
+      "title": "Semântica e ambiguidade",
+      "slug": "semantica-e-ambiguidade",
+      "unit": "1º médio — Aprofundamento",
+      "order": 13,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    }
+  ]
+}

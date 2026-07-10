@@ -1,0 +1,30 @@
+{
+  "id": "content-m8-notacao",
+  "topicId": "m8-notacao",
+  "subjectId": "matematica",
+  "slug": "notacao-cientifica",
+  "title": "Notação científica",
+  "summary": "Escrever números muito grandes ou pequenos com potências de 10.",
+  "body": "## O que é\n\nNotação científica: a × 10ⁿ, com 1 ≤ |a| < 10.\n\n## Para quê\n\nCiências e cálculos com distâncias astronômicas, micróbios, etc. Compare ordens de grandeza.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08MA01"
+  ],
+  "unit": "8º ano — Números e álgebra",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Notação científica\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Notação científica (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Nota%C3%A7%C3%A3o_cient%C3%ADfica",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

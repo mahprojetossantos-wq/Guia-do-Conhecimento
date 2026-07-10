@@ -1,0 +1,30 @@
+{
+  "id": "content-h8-paraguai",
+  "topicId": "h8-paraguai",
+  "subjectId": "historia",
+  "slug": "guerra-do-paraguai",
+  "title": "Guerra do Paraguai",
+  "summary": "Conflito na Bacia do Prata e seus legados.",
+  "body": "## O conflito\n\nA Guerra do Paraguai (1864–1870) envolveu a Tríplice Aliança (Brasil, Argentina e Uruguai) contra o Paraguai. Foi longa e devastadora, sobretudo para a população paraguaia.\n\n## No Brasil\n\nFortaleceu o Exército como ator político e gerou debates sobre custos humanos e políticos. Há diferentes interpretações sobre causas e responsabilidades — importante comparar versões e fontes.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI18"
+  ],
+  "unit": "O Brasil no século XIX",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Guerra do Paraguai\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Guerra do Paraguai (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Guerra_do_Paraguai",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

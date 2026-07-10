@@ -1,0 +1,31 @@
+{
+  "id": "content-h9-ditaduras-al",
+  "topicId": "h9-ditaduras-al",
+  "subjectId": "historia",
+  "slug": "ditaduras-na-america-latina",
+  "title": "Ditaduras na América Latina",
+  "summary": "Regimes autoritários e conexões regionais.",
+  "body": "## Padrões\n\nVários países latino-americanos viveram ditaduras no século XX, com censura, repressão e, em muitos casos, alinhamento a interesses da Guerra Fria. Comparar Brasil, Chile, Argentina e outros ajuda a ver semelhanças e diferenças.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09HI29",
+    "EF09HI30"
+  ],
+  "unit": "História recente (mundo)",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Ditaduras na América Latina\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Operação Condor (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Condor",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

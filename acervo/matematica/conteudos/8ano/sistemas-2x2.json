@@ -1,0 +1,30 @@
+{
+  "id": "content-m8-sistemas",
+  "topicId": "m8-sistemas",
+  "subjectId": "matematica",
+  "slug": "sistemas-2x2",
+  "title": "Sistemas de equações 2×2",
+  "summary": "Duas equações e duas incógnitas.",
+  "body": "## Métodos\n\nSubstituição, adição e comparação. Representação gráfica: interseção de retas.\n\n## Uso\n\nProblemas com duas condições simultâneas.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08MA08"
+  ],
+  "unit": "8º ano — Números e álgebra",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Sistemas de equações 2×2\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Sistema de equações lineares (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Sistema_de_equa%C3%A7%C3%B5es_lineares",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

@@ -1,0 +1,79 @@
+{
+  "subjectId": "sociologia",
+  "generatedAt": "2026-07-10",
+  "totalTopics": 6,
+  "topics": [
+    {
+      "id": "s1-o-que-e",
+      "subjectId": "sociologia",
+      "title": "O que é Sociologia?",
+      "slug": "o-que-e-sociologia",
+      "unit": "1º médio",
+      "order": 1,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "s1-classicos",
+      "subjectId": "sociologia",
+      "title": "Marx, Weber e Durkheim",
+      "slug": "marx-weber-durkheim",
+      "unit": "1º médio",
+      "order": 2,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "s1-cultura",
+      "subjectId": "sociologia",
+      "title": "Cultura e identidade",
+      "slug": "cultura-e-identidade",
+      "unit": "1º médio",
+      "order": 3,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "s1-trabalho",
+      "subjectId": "sociologia",
+      "title": "Trabalho e desigualdade",
+      "slug": "trabalho-e-desigualdade",
+      "unit": "1º médio",
+      "order": 4,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "s1-poder",
+      "subjectId": "sociologia",
+      "title": "Poder, Estado e cidadania",
+      "slug": "poder-estado-e-cidadania",
+      "unit": "1º médio",
+      "order": 5,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "s1-midia",
+      "subjectId": "sociologia",
+      "title": "Mídia e indústria cultural",
+      "slug": "midia-e-industria-cultural",
+      "unit": "1º médio",
+      "order": 6,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    }
+  ]
+}

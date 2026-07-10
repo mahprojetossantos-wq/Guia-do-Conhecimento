@@ -1,0 +1,30 @@
+{
+  "id": "content-h9-indigenas-republica",
+  "topicId": "h9-indigenas-republica",
+  "subjectId": "historia",
+  "slug": "questao-indigena-na-republica",
+  "title": "Questão indígena na República (até 1964)",
+  "summary": "Tutela, SPI e lutas indígenas no século XX.",
+  "body": "## República e povos indígenas\n\nA República manteve lógicas de tutela e integração forçada. O SPI (Serviço de Proteção aos Índios) misturou proteção e violência. Povos indígenas seguiram lutando por terra, cultura e reconhecimento — em meio a inclusão seletiva e exclusão estrutural.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09HI07"
+  ],
+  "unit": "Nascimento da República e Brasil até meados do século XX",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Questão indígena na República (até 1964)\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Serviço de Proteção aos Índios (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Servi%C3%A7o_de_Prote%C3%A7%C3%A3o_aos_%C3%8Dndios",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

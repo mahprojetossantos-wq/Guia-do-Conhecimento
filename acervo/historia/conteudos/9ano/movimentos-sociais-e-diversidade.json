@@ -1,0 +1,31 @@
+{
+  "id": "content-h9-movimentos-sociais",
+  "topicId": "h9-movimentos-sociais",
+  "subjectId": "historia",
+  "slug": "movimentos-sociais-e-diversidade",
+  "title": "Movimentos sociais, anarquismo e protagonismo feminino",
+  "summary": "Lutas por direitos no Brasil republicano.",
+  "body": "## Movimentos\n\nNo início do século XX, operários (muitos imigrantes) organizaram greves; ideias anarquistas e socialistas circularam. Mulheres lutaram por voto e direitos civis. A diversidade de pautas mostra que cidadania se conquista coletivamente.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09HI08",
+    "EF09HI09"
+  ],
+  "unit": "Nascimento da República e Brasil até meados do século XX",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Movimentos sociais, anarquismo e protagonismo feminino\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Feminismo no Brasil (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Feminismo_no_Brasil",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

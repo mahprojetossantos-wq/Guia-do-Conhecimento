@@ -1,0 +1,30 @@
+{
+  "id": "content-h9-guerra-fria",
+  "topicId": "h9-guerra-fria",
+  "subjectId": "historia",
+  "slug": "guerra-fria",
+  "title": "Guerra Fria",
+  "summary": "EUA x URSS: bipolaridade e conflitos indiretos.",
+  "body": "## O que foi?\n\nApós 1945, EUA e URSS lideraram blocos capitalista e socialista. Não houve guerra direta total entre eles, mas corrida armamentista, espionagem, propaganda e guerras “proxy” (Coreia, Vietnã, etc.).\n\n## No Brasil\n\nA Guerra Fria influenciou o golpe de 1964 e a política externa. Entender o contexto internacional é essencial para a história brasileira do século XX.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09HI28"
+  ],
+  "unit": "História recente (mundo)",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Guerra Fria\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Guerra Fria (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Guerra_Fria",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "educacao-fisica",
+  "name": "Educação Física",
+  "slug": "educacao-fisica",
+  "order": 14,
+  "levels": [
+    "8ano",
+    "9ano",
+    "1medio"
+  ],
+  "color": "#EA580C",
+  "description": "Esporte, saúde, jogos e cultura corporal.",
+  "updatedAt": "2026-07-10"
+}

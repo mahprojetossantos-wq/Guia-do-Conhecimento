@@ -1,0 +1,29 @@
+{
+  "id": "content-g9-ambiente",
+  "topicId": "g9-ambiente",
+  "subjectId": "geografia",
+  "slug": "questoes-ambientais",
+  "title": "Questões ambientais",
+  "summary": "Mudanças climáticas, água e sustentabilidade.",
+  "body": "## Pautas\n\nAquecimento global, poluição, escassez hídrica, ODS. Relacione consumo, produção e justiça ambiental.",
+  "levels": [
+    "9ano",
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "9º ano — Brasil e globalização",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Questões ambientais\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Mudança do clima (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Aquecimento_global",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

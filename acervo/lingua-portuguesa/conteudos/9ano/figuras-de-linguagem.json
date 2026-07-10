@@ -1,0 +1,28 @@
+{
+  "id": "content-p9-figuras",
+  "topicId": "p9-figuras",
+  "subjectId": "lingua-portuguesa",
+  "slug": "figuras-de-linguagem",
+  "title": "Figuras de linguagem",
+  "summary": "Metáfora, metonímia, ironia, hipérbole etc.",
+  "body": "## Para que servem\n\nCriar efeito de sentido em textos literários e publicitários. Identifique a figura e explique o efeito — não só memorize nomes.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [],
+  "unit": "9º ano — Interpretação e argumentação",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Figuras de linguagem\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Figura de linguagem (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Figura_de_linguagem",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

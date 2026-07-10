@@ -1,0 +1,30 @@
+{
+  "id": "content-m9-funcao2",
+  "topicId": "m9-funcao2",
+  "subjectId": "matematica",
+  "slug": "funcao-quadratica",
+  "title": "Função quadrática",
+  "summary": "Parábola, vértice e concavidade.",
+  "body": "## f(x) = ax² + bx + c\n\nConcavidade para cima se a > 0. Vértice em x = −b/(2a). Relacione com equações do 2º grau.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09MA06"
+  ],
+  "unit": "9º ano — Álgebra e funções",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Função quadrática\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Função quadrática (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Fun%C3%A7%C3%A3o_quadr%C3%A1tica",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

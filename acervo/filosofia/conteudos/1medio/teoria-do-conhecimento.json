@@ -1,0 +1,28 @@
+{
+  "id": "content-fil1-conhecimento",
+  "topicId": "fil1-conhecimento",
+  "subjectId": "filosofia",
+  "slug": "teoria-do-conhecimento",
+  "title": "Teoria do conhecimento",
+  "summary": "O que podemos saber?",
+  "body": "## Epistemologia\n\nCrença, verdade e justificação. Empirismo × racionalismo (visão escolar). Desinformação exige pensamento crítico.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Teoria do conhecimento\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Epistemologia (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Epistemologia",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

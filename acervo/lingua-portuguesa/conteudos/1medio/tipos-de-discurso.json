@@ -1,0 +1,28 @@
+{
+  "id": "content-p1-discurso",
+  "topicId": "p1-discurso",
+  "subjectId": "lingua-portuguesa",
+  "slug": "tipos-de-discurso",
+  "title": "Tipos de discurso",
+  "summary": "Direto, indireto e indireto livre.",
+  "body": "## Na narrativa\n\nDiscurso direto (fala entre aspas/travessão), indireto (narrador reporta) e indireto livre (mistura). Importante em análise de contos e romances.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Aprofundamento",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Tipos de discurso\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Discurso narrativo (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Discurso_narrativo",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

@@ -1,0 +1,24 @@
+{
+  "subjectId": "biologia",
+  "generatedAt": "2026-07-10",
+  "counts": {
+    "topics": 8,
+    "files8": 0,
+    "files9": 0,
+    "files1": 8
+  },
+  "folders": {
+    "conteudos/8ano": [],
+    "conteudos/9ano": [],
+    "conteudos/1medio": [
+      "metodo-cientifico-biologia.json",
+      "bioquimica-basica.json",
+      "citologia.json",
+      "membrana-e-transporte.json",
+      "metabolismo-energetico.json",
+      "mitose-e-meiose.json",
+      "virus-bacterias-imunidade.json",
+      "ecologia-1medio.json"
+    ]
+  }
+}

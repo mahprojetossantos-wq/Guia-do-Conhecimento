@@ -1,0 +1,28 @@
+{
+  "id": "content-i1-present-perfect",
+  "topicId": "i1-present-perfect",
+  "subjectId": "ingles",
+  "slug": "present-perfect-intro",
+  "title": "Present Perfect (intro)",
+  "summary": "Experiências e passado ligado ao presente.",
+  "body": "## Forma\n\nhave/has + past participle. Marcadores: already, yet, ever, never, just. Diferente do Simple Past (tempo definido).",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Present Perfect (intro)\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Presente perfeito (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Presente_perfeito",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

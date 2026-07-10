@@ -1,0 +1,28 @@
+{
+  "id": "content-l1-arcadismo",
+  "topicId": "l1-arcadismo",
+  "subjectId": "literatura",
+  "slug": "arcadismo",
+  "title": "Arcadismo",
+  "summary": "Simplicidade e natureza idealizada.",
+  "body": "## Ideias\n\nFugere urbem, aurea mediocritas, pastores. No Brasil: Cláudio Manuel da Costa, Tomás Antônio Gonzaga.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "Fundamentos",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Arcadismo\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Arcadismo (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Arcadismo",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

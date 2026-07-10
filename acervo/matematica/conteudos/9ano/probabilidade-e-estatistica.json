@@ -1,0 +1,30 @@
+{
+  "id": "content-m9-prob",
+  "topicId": "m9-prob",
+  "subjectId": "matematica",
+  "slug": "probabilidade-e-estatistica",
+  "title": "Probabilidade e estatística básica",
+  "summary": "Média, moda, mediana e chance.",
+  "body": "## Estatística\n\nMédia, mediana, moda; leitura de gráficos.\n\n## Probabilidade\n\nP = casos favoráveis / casos possíveis (espaço equiprovável).",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09MA20"
+  ],
+  "unit": "9º ano — Álgebra e funções",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Probabilidade e estatística básica\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Probabilidade (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Probabilidade",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

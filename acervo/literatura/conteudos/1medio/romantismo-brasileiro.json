@@ -1,0 +1,28 @@
+{
+  "id": "content-l1-romantismo",
+  "topicId": "l1-romantismo",
+  "subjectId": "literatura",
+  "slug": "romantismo-brasileiro",
+  "title": "Romantismo brasileiro",
+  "summary": "Nacionalismo, indianismo e subjetividade.",
+  "body": "## Gerações\n\nIndianismo, ultrarromantismo, condoreirismo. Autores: Gonçalves Dias, Álvares de Azevedo, Castro Alves. Prosa: Alencar.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "Fundamentos",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Romantismo brasileiro\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Romantismo no Brasil (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Romantismo_no_Brasil",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

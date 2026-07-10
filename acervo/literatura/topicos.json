@@ -1,0 +1,80 @@
+{
+  "subjectId": "literatura",
+  "generatedAt": "2026-07-10",
+  "totalTopics": 6,
+  "topics": [
+    {
+      "id": "l9-generos-lit",
+      "subjectId": "literatura",
+      "title": "Gêneros literários",
+      "slug": "generos-literarios",
+      "unit": "Fundamentos",
+      "order": 1,
+      "levels": [
+        "9ano",
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "l1-trovadorismo",
+      "subjectId": "literatura",
+      "title": "Das origens ao Classicismo",
+      "slug": "das-origens-ao-classicismo",
+      "unit": "Fundamentos",
+      "order": 2,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "l1-barroco",
+      "subjectId": "literatura",
+      "title": "Barroco",
+      "slug": "barroco",
+      "unit": "Fundamentos",
+      "order": 3,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "l1-arcadismo",
+      "subjectId": "literatura",
+      "title": "Arcadismo",
+      "slug": "arcadismo",
+      "unit": "Fundamentos",
+      "order": 4,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "l1-romantismo",
+      "subjectId": "literatura",
+      "title": "Romantismo brasileiro",
+      "slug": "romantismo-brasileiro",
+      "unit": "Fundamentos",
+      "order": 5,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "l1-realismo",
+      "subjectId": "literatura",
+      "title": "Realismo e Naturalismo",
+      "slug": "realismo-e-naturalismo",
+      "unit": "Fundamentos",
+      "order": 6,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    }
+  ]
+}

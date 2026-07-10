@@ -1,0 +1,28 @@
+{
+  "id": "content-b1-metodo",
+  "topicId": "b1-metodo",
+  "subjectId": "biologia",
+  "slug": "metodo-cientifico-biologia",
+  "title": "Método científico em Biologia",
+  "summary": "Pergunta, hipótese, experimento e teoria.",
+  "body": "## Método\n\nObservação → pergunta → hipótese → teste → conclusão. Teoria científica ≠ “achismo”. Ciência é revisável.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Bases da Biologia",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Método científico em Biologia\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Método científico (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/M%C3%A9todo_cient%C3%ADfico",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

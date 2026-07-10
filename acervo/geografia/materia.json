@@ -1,0 +1,14 @@
+{
+  "id": "geografia",
+  "name": "Geografia",
+  "slug": "geografia",
+  "order": 4,
+  "levels": [
+    "8ano",
+    "9ano",
+    "1medio"
+  ],
+  "color": "#059669",
+  "description": "Espaço geográfico, natureza, sociedade, Brasil e mundo.",
+  "updatedAt": "2026-07-10"
+}

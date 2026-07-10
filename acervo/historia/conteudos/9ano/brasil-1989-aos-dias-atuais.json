@@ -1,0 +1,32 @@
+{
+  "id": "content-h9-brasil-recente",
+  "topicId": "h9-brasil-recente",
+  "subjectId": "historia",
+  "slug": "brasil-1989-aos-dias-atuais",
+  "title": "Brasil de 1989 aos dias atuais",
+  "summary": "Democracia, economia e protagonismos sociais.",
+  "body": "## História recente\n\nEleições diretas, planos econômicos, estabilização (Plano Real), inclusão social, crises políticas e papel do Brasil no mundo globalizado. A sociedade civil — movimentos negros, indígenas, feministas, LGBTQIA+, sindicais — continua protagonista.\n\n## Para estudar bem\n\nSeparar fato, opinião e propaganda; usar fontes confiáveis; ligar eventos locais ao nacional e ao global.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09HI24",
+    "EF09HI25",
+    "EF09HI27"
+  ],
+  "unit": "Brasil após 1946: modernização, ditadura e redemocratização",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Brasil de 1989 aos dias atuais\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — História do Brasil desde 1985 (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Hist%C3%B3ria_do_Brasil_desde_1985",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

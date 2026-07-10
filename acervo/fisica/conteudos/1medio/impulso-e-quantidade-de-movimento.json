@@ -1,0 +1,28 @@
+{
+  "id": "content-f1-impulsão",
+  "topicId": "f1-impulsão",
+  "subjectId": "fisica",
+  "slug": "impulso-e-quantidade-de-movimento",
+  "title": "Impulso e quantidade de movimento",
+  "summary": "Colisões e conservação.",
+  "body": "## Quantidade de movimento\n\np = m·v. Impulso = variação de p. Em colisões, analise se a energia cinética se conserva (elástica × inelástica).",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Mecânica",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Impulso e quantidade de movimento\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Quantidade de movimento (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Quantidade_de_movimento",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

@@ -1,0 +1,38 @@
+{
+  "subjectId": "matematica",
+  "generatedAt": "2026-07-10",
+  "counts": {
+    "topics": 20,
+    "files8": 8,
+    "files9": 7,
+    "files1": 5
+  },
+  "folders": {
+    "conteudos/8ano": [
+      "potencias-e-radicais.json",
+      "notacao-cientifica.json",
+      "porcentagem-e-juros.json",
+      "equacoes-1-grau.json",
+      "sistemas-2x2.json",
+      "angulos-e-paralelismo.json",
+      "triangulos-congruencia.json",
+      "areas-de-figuras-planas.json"
+    ],
+    "conteudos/9ano": [
+      "produtos-notaveis-fatoracao.json",
+      "equacoes-2-grau.json",
+      "funcao-afim.json",
+      "funcao-quadratica.json",
+      "teorema-de-pitagoras.json",
+      "razao-e-proporcao-semelhanca.json",
+      "probabilidade-e-estatistica.json"
+    ],
+    "conteudos/1medio": [
+      "conjuntos-numericos.json",
+      "funcoes-conceito.json",
+      "funcao-exponencial-log.json",
+      "trigonometria-triangulo-retangulo.json",
+      "sequencias-pa-pg.json"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "subjectId": "ciencias",
+  "generatedAt": "2026-07-10",
+  "counts": {
+    "topics": 11,
+    "files8": 5,
+    "files9": 6,
+    "files1": 0
+  },
+  "folders": {
+    "conteudos/8ano": [
+      "materia-e-suas-propriedades.json",
+      "atomo-e-tabela-periodica-intro.json",
+      "forcas-e-movimento.json",
+      "formas-de-energia.json",
+      "ecologia-basica.json"
+    ],
+    "conteudos/9ano": [
+      "celula-e-microscopia.json",
+      "genetica-basica.json",
+      "evolucao-e-diversidade.json",
+      "saude-e-sexualidade.json",
+      "estrutura-da-terra-e-atmosfera.json",
+      "reacoes-quimicas-intro.json"
+    ],
+    "conteudos/1medio": []
+  }
+}

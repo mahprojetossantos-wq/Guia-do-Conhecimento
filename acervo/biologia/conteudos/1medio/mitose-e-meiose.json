@@ -1,0 +1,28 @@
+{
+  "id": "content-b1-divisao",
+  "topicId": "b1-divisao",
+  "subjectId": "biologia",
+  "slug": "mitose-e-meiose",
+  "title": "Mitose e meiose",
+  "summary": "Divisão celular e formação de gametas.",
+  "body": "## Mitose\n\nCrescimento e reposição celular.\n\n## Meiose\n\nGametas com metade dos cromossomos; variação genética.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Bases da Biologia",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Mitose e meiose\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Meiose (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Meiose",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

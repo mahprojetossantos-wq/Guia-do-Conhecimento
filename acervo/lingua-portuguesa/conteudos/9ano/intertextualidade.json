@@ -1,0 +1,28 @@
+{
+  "id": "content-p9-intertextualidade",
+  "topicId": "p9-intertextualidade",
+  "subjectId": "lingua-portuguesa",
+  "slug": "intertextualidade",
+  "title": "Intertextualidade",
+  "summary": "Diálogo entre textos.",
+  "body": "## Conceito\n\nUm texto cita, imita, ironiza ou dialoga com outro. Reconhecer a referência amplia a interpretação.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [],
+  "unit": "9º ano — Interpretação e argumentação",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Intertextualidade\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Intertextualidade (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Intertextualidade",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "content-i8-vocab",
+  "topicId": "i8-vocab",
+  "subjectId": "ingles",
+  "slug": "vocabulario-escola-e-cotidiano",
+  "title": "Vocabulário: escola e cotidiano",
+  "summary": "Palavras do dia a dia.",
+  "body": "## Prática\n\nMonte listas temáticas (school, food, family, places) e use em frases curtas. Repetição espaçada ajuda a memorizar.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [],
+  "unit": "8º ano",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Vocabulário: escola e cotidiano\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Vocabulário (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Vocabul%C3%A1rio",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

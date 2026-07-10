@@ -1,0 +1,33 @@
+{
+  "id": "content-shared-segunda-guerra-mundial",
+  "topicId": "h9-segunda-guerra",
+  "subjectId": "historia",
+  "slug": "segunda-guerra-mundial",
+  "title": "Segunda Guerra Mundial",
+  "summary": "1939–1945: conflito global e novo ordem mundial.",
+  "body": "## O conflito\n\nA 2ª Guerra envolveu Aliados e Eixo, com frentes na Europa, África, Ásia e Pacífico. Foi a guerra mais destrutiva da história.\n\n## Brasil\n\nO Brasil entrou em 1942 ao lado dos Aliados; a FEB combateu na Itália. A guerra pressionou o Estado Novo e ajudou no caminho para o fim de Vargas em 1945.\n\n## Depois\n\nONU, Direitos Humanos, início da Guerra Fria e processos de descolonização.",
+  "levels": [
+    "9ano",
+    "1medio"
+  ],
+  "bnccCodes": [
+    "EF09HI10",
+    "EF09HI14"
+  ],
+  "unit": "Totalitarismos e conflitos mundiais",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Segunda Guerra Mundial\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Segunda Guerra Mundial (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Segunda_Guerra_Mundial",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10",
+  "note": "Versão compartilhada 9º + 1º médio (mesmo texto-base)."
+}

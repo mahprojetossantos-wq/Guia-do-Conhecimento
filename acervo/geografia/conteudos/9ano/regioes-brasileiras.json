@@ -1,0 +1,28 @@
+{
+  "id": "content-g9-regioes",
+  "topicId": "g9-regioes",
+  "subjectId": "geografia",
+  "slug": "regioes-brasileiras",
+  "title": "Regiões brasileiras",
+  "summary": "Norte, Nordeste, Centro-Oeste, Sudeste, Sul.",
+  "body": "## Regionalização\n\nIBGE: 5 regiões. Compare economia, população e desigualdades. Outras regionalizações (geoeconômica) também existem.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [],
+  "unit": "9º ano — Brasil e globalização",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Regiões brasileiras\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Regiões do Brasil (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Regi%C3%B5es_do_Brasil",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

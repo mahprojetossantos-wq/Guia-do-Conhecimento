@@ -1,0 +1,30 @@
+{
+  "id": "content-h8-cultura-xix",
+  "topicId": "h8-cultura-xix",
+  "subjectId": "historia",
+  "slug": "cultura-e-identidade-seculo-xix",
+  "title": "Cultura e identidade no século XIX",
+  "summary": "Romantismo, cultura popular e invenção de identidades.",
+  "body": "## Cultura no Império\n\nLetras, artes e cultura popular ajudaram a construir imagens do “brasileiro”. O Romantismo, por exemplo, valorizou temas nacionais, indígenas idealizados e o passado — muitas vezes de forma seletiva.\n\n## Ponto-chave\n\nIdentidades nacionais são históricas: são produzidas, contestadas e transformadas — não são naturais nem únicas.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI22"
+  ],
+  "unit": "O Brasil no século XIX",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Cultura e identidade no século XIX\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Romantismo no Brasil (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Romantismo_no_Brasil",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

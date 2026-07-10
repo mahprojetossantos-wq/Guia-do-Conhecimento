@@ -1,0 +1,30 @@
+{
+  "id": "content-m9-eq2",
+  "topicId": "m9-eq2",
+  "subjectId": "matematica",
+  "slug": "equacoes-2-grau",
+  "title": "Equações do 2º grau",
+  "summary": "Fórmula de Bhaskara e interpretação.",
+  "body": "## Forma\n\nax² + bx + c = 0 (a ≠ 0). Discriminante Δ = b² − 4ac.\n\n## Raízes\n\nx = (−b ± √Δ) / (2a). Δ > 0 duas raízes reais; Δ = 0 uma; Δ < 0 nenhuma real (no conjunto dos reais).",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09MA09"
+  ],
+  "unit": "9º ano — Álgebra e funções",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Equações do 2º grau\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Equação quadrática (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Equa%C3%A7%C3%A3o_quadr%C3%A1tica",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

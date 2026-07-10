@@ -1,0 +1,28 @@
+{
+  "id": "content-c9-saude",
+  "topicId": "c9-saude",
+  "subjectId": "ciencias",
+  "slug": "saude-e-sexualidade",
+  "title": "Saúde, prevenção e sexualidade",
+  "summary": "IST, contracepção e saúde pública (visão escolar).",
+  "body": "## Saúde\n\nPrevenção, vacinas, hábitos. Educação sexual com base científica e respeito. Busque fontes confiáveis (Ministério da Saúde).",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [],
+  "unit": "9º ano — Corpo, genética e Terra",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Saúde, prevenção e sexualidade\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Saúde (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Sa%C3%BAde",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

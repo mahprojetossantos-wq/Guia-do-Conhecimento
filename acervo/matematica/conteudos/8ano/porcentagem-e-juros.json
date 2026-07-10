@@ -1,0 +1,30 @@
+{
+  "id": "content-m8-porcentagem",
+  "topicId": "m8-porcentagem",
+  "subjectId": "matematica",
+  "slug": "porcentagem-e-juros",
+  "title": "Porcentagem e juros simples",
+  "summary": "Aumentos, descontos e juros no dia a dia.",
+  "body": "## Porcentagem\n\nx% de um valor = (x/100) × valor. Aumentos e descontos sucessivos não se somam de forma ingênua.\n\n## Juros simples\n\nJ = C × i × t. Montante = C + J. Base para educação financeira.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08MA04"
+  ],
+  "unit": "8º ano — Números e álgebra",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Porcentagem e juros simples\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Juros (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Juros",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

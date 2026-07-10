@@ -1,0 +1,30 @@
+{
+  "subjectId": "geografia",
+  "generatedAt": "2026-07-10",
+  "counts": {
+    "topics": 12,
+    "files8": 4,
+    "files9": 6,
+    "files1": 2
+  },
+  "folders": {
+    "conteudos/8ano": [
+      "cartografia-e-orientacao.json",
+      "relevo-clima-hidrografia.json",
+      "industria-e-energia.json",
+      "agricultura-e-agronegocio.json"
+    ],
+    "conteudos/9ano": [
+      "biomas-brasileiros.json",
+      "populacao-e-urbanizacao.json",
+      "regioes-brasileiras.json",
+      "globalizacao-e-blocos.json",
+      "geopolitica-mundial.json",
+      "questoes-ambientais.json"
+    ],
+    "conteudos/1medio": [
+      "espaco-geografico.json",
+      "leitura-critica-de-mapas.json"
+    ]
+  }
+}

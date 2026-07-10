@@ -1,0 +1,28 @@
+{
+  "id": "content-q1-funcoes",
+  "topicId": "q1-funcoes",
+  "subjectId": "quimica",
+  "slug": "funcoes-inorganicas",
+  "title": "Funções inorgânicas",
+  "summary": "Ácidos, bases, sais e óxidos.",
+  "body": "## Funções\n\nÁcidos (H⁺), bases (OH⁻), sais e óxidos. Indicadores e pH. Exemplos do cotidiano (vinagre, sabão, ferrugem).",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Fundamentos",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Funções inorgânicas\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Função inorgânica (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Fun%C3%A7%C3%A3o_inorg%C3%A2nica",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

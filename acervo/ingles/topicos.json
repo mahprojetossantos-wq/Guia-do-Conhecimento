@@ -1,0 +1,140 @@
+{
+  "subjectId": "ingles",
+  "generatedAt": "2026-07-10",
+  "totalTopics": 11,
+  "topics": [
+    {
+      "id": "i8-present",
+      "subjectId": "ingles",
+      "title": "Simple Present",
+      "slug": "simple-present",
+      "unit": "8º ano",
+      "order": 1,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "i8-past",
+      "subjectId": "ingles",
+      "title": "Simple Past",
+      "slug": "simple-past",
+      "unit": "8º ano",
+      "order": 2,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "i8-prepositions",
+      "subjectId": "ingles",
+      "title": "Prepositions: in, on, at",
+      "slug": "prepositions-in-on-at",
+      "unit": "8º ano",
+      "order": 3,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "i8-vocab",
+      "subjectId": "ingles",
+      "title": "Vocabulário: escola e cotidiano",
+      "slug": "vocabulario-escola-e-cotidiano",
+      "unit": "8º ano",
+      "order": 4,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "i9-continuous",
+      "subjectId": "ingles",
+      "title": "Present Continuous",
+      "slug": "present-continuous",
+      "unit": "9º ano",
+      "order": 5,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "i9-future",
+      "subjectId": "ingles",
+      "title": "Will e going to",
+      "slug": "will-e-going-to",
+      "unit": "9º ano",
+      "order": 6,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "i9-comparatives",
+      "subjectId": "ingles",
+      "title": "Comparatives and superlatives",
+      "slug": "comparatives-and-superlatives",
+      "unit": "9º ano",
+      "order": 7,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "i9-reading",
+      "subjectId": "ingles",
+      "title": "Reading strategies",
+      "slug": "reading-strategies",
+      "unit": "9º ano",
+      "order": 8,
+      "levels": [
+        "9ano",
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "i1-present-perfect",
+      "subjectId": "ingles",
+      "title": "Present Perfect (intro)",
+      "slug": "present-perfect-intro",
+      "unit": "1º médio",
+      "order": 9,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "i1-connectors",
+      "subjectId": "ingles",
+      "title": "Connectors",
+      "slug": "connectors",
+      "unit": "1º médio",
+      "order": 10,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "i1-false-friends",
+      "subjectId": "ingles",
+      "title": "False friends",
+      "slug": "false-friends",
+      "unit": "1º médio",
+      "order": 11,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    }
+  ]
+}

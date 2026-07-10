@@ -1,0 +1,28 @@
+{
+  "id": "content-c8-energia",
+  "topicId": "c8-energia",
+  "subjectId": "ciencias",
+  "slug": "formas-de-energia",
+  "title": "Formas de energia",
+  "summary": "Cinética, potencial, térmica, elétrica…",
+  "body": "## Conservação\n\nEnergia se transforma. Fontes renováveis e não renováveis. Eficiência e impactos ambientais.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [],
+  "unit": "8º ano — Matéria, energia e vida",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Formas de energia\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Energia (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Energia",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

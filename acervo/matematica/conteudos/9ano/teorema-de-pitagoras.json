@@ -1,0 +1,30 @@
+{
+  "id": "content-m9-pitagoras",
+  "topicId": "m9-pitagoras",
+  "subjectId": "matematica",
+  "slug": "teorema-de-pitagoras",
+  "title": "Teorema de Pitágoras",
+  "summary": "Em triângulo retângulo: a² = b² + c².",
+  "body": "## Enunciado\n\nO quadrado da hipotenusa é a soma dos quadrados dos catetos.\n\n## Aplicações\n\nDistâncias, diagonais, problemas de altura.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09MA13"
+  ],
+  "unit": "9º ano — Álgebra e funções",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Teorema de Pitágoras\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Teorema de Pitágoras (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Teorema_de_Pit%C3%A1goras",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

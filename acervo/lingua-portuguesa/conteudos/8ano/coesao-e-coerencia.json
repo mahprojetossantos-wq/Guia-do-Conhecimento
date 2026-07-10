@@ -1,0 +1,28 @@
+{
+  "id": "content-p8-coesao",
+  "topicId": "p8-coesao",
+  "subjectId": "lingua-portuguesa",
+  "slug": "coesao-e-coerencia",
+  "title": "Coesão e coerência",
+  "summary": "Como o texto “segura” e faz sentido.",
+  "body": "## Coesão\n\nConectivos, pronomes, repetição controlada.\n\n## Coerência\n\nIdeias que se encaixam sem contradição. Essencial na redação.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [],
+  "unit": "8º ano — Língua e texto",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Coesão e coerência\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Coesão textual (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Coes%C3%A3o_textual",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

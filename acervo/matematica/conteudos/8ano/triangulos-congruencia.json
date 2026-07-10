@@ -1,0 +1,30 @@
+{
+  "id": "content-m8-triangulos",
+  "topicId": "m8-triangulos",
+  "subjectId": "matematica",
+  "slug": "triangulos-congruencia",
+  "title": "Triângulos e congruência",
+  "summary": "Casos de congruência e classificação.",
+  "body": "## Classificação\n\nPor lados (equilátero, isósceles, escaleno) e por ângulos.\n\n## Congruência\n\nLLL, LAL, ALA, LAAo. Útil em provas e construções.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08MA14"
+  ],
+  "unit": "8º ano — Geometria e grandezas",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Triângulos e congruência\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Congruência de triângulos (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Congru%C3%AAncia_de_tri%C3%A2ngulos",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

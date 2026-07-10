@@ -1,0 +1,28 @@
+{
+  "id": "content-p8-generos",
+  "topicId": "p8-generos",
+  "subjectId": "lingua-portuguesa",
+  "slug": "generos-textuais",
+  "title": "Gêneros textuais",
+  "summary": "Notícia, crônica, conto, artigo de opinião etc.",
+  "body": "## Ideia\n\nGênero = forma social de texto (estrutura, objetivo, suporte). Reconhecer o gênero melhora leitura e produção.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [],
+  "unit": "8º ano — Língua e texto",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Gêneros textuais\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Gênero textual (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/G%C3%AAnero_textual",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

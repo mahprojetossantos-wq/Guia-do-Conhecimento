@@ -1,0 +1,28 @@
+{
+  "id": "content-p9-funcoes",
+  "topicId": "p9-funcoes",
+  "subjectId": "lingua-portuguesa",
+  "slug": "funcoes-da-linguagem",
+  "title": "Funções da linguagem",
+  "summary": "Referencial, emotiva, conativa, poética, fática, metalinguística.",
+  "body": "## Jakobson (visão escolar)\n\nCada função destaca um elemento da comunicação. Na prova, diga qual predomina e por quê.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [],
+  "unit": "9º ano — Interpretação e argumentação",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Funções da linguagem\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Funções da linguagem (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Fun%C3%A7%C3%B5es_da_linguagem",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

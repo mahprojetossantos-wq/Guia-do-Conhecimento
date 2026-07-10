@@ -1,0 +1,28 @@
+{
+  "id": "content-a1-leitura",
+  "topicId": "a1-leitura",
+  "subjectId": "arte",
+  "slug": "leitura-de-obra",
+  "title": "Leitura de obra de arte",
+  "summary": "Descrever, analisar e interpretar.",
+  "body": "## Roteiro\n\n1) Descrição 2) Análise formal 3) Contexto 4) Interpretação. Separe o que se vê do que se conclui.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "Fundamentos",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Leitura de obra de arte\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Crítica de arte (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Cr%C3%ADtica_de_arte",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

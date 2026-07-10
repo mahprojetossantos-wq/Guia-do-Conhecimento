@@ -1,0 +1,31 @@
+{
+  "id": "content-h9-pos-abolicao",
+  "topicId": "h9-pos-abolicao",
+  "subjectId": "historia",
+  "slug": "pos-abolicao-e-populacao-negra",
+  "title": "Pós-abolição e população negra",
+  "summary": "Liberdade jurídica sem igualdade real.",
+  "body": "## Depois de 1888\n\nA abolição não veio acompanhada de terra, educação universal nem reparação. A população negra enfrentou exclusão no mercado de trabalho, racismo e violência.\n\n## Resistência e cultura\n\nImprensa negra, associações, religiões afro-brasileiras e práticas culturais foram formas de resistência e de construção de dignidade. A participação negra é central na formação econômica, política e social do Brasil — apesar das tentativas de apagamento.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09HI03",
+    "EF09HI04"
+  ],
+  "unit": "Nascimento da República e Brasil até meados do século XX",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Pós-abolição e população negra\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Pós-abolição no Brasil (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/P%C3%B3s-aboli%C3%A7%C3%A3o_no_Brasil",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

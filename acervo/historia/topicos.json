@@ -1,0 +1,654 @@
+{
+  "subjectId": "historia",
+  "generatedAt": "2026-07-10",
+  "totalTopics": 45,
+  "topics": [
+    {
+      "id": "h8-iluminismo",
+      "subjectId": "historia",
+      "title": "Iluminismo e liberalismo",
+      "slug": "iluminismo-e-liberalismo",
+      "unit": "O mundo contemporâneo: o Antigo Regime em crise",
+      "order": 100,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI01"
+      ]
+    },
+    {
+      "id": "h8-revolucoes-inglesas",
+      "subjectId": "historia",
+      "title": "Revoluções inglesas e liberalismo",
+      "slug": "revolucoes-inglesas-e-liberalismo",
+      "unit": "O mundo contemporâneo: o Antigo Regime em crise",
+      "order": 101,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI02"
+      ]
+    },
+    {
+      "id": "h8-revolucao-industrial",
+      "subjectId": "historia",
+      "title": "Revolução Industrial",
+      "slug": "revolucao-industrial",
+      "unit": "O mundo contemporâneo: o Antigo Regime em crise",
+      "order": 102,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI03"
+      ]
+    },
+    {
+      "id": "h8-revolucao-francesa",
+      "subjectId": "historia",
+      "title": "Revolução Francesa e desdobramentos",
+      "slug": "revolucao-francesa",
+      "unit": "O mundo contemporâneo: o Antigo Regime em crise",
+      "order": 103,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI04"
+      ]
+    },
+    {
+      "id": "h8-conjuracoes",
+      "subjectId": "historia",
+      "title": "Conjurações mineira e baiana",
+      "slug": "conjuracoes-mineira-e-baiana",
+      "unit": "O mundo contemporâneo: o Antigo Regime em crise",
+      "order": 104,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI05"
+      ]
+    },
+    {
+      "id": "h8-eua-conceitos",
+      "subjectId": "historia",
+      "title": "Independência dos EUA e conceitos de Estado",
+      "slug": "independencia-eua-e-conceitos-de-estado",
+      "unit": "Independências nas Américas",
+      "order": 105,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI06"
+      ]
+    },
+    {
+      "id": "h8-ind-hispano",
+      "subjectId": "historia",
+      "title": "Independências na América espanhola",
+      "slug": "independencias-america-espanhola",
+      "unit": "Independências nas Américas",
+      "order": 106,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI07",
+        "EF08HI08"
+      ]
+    },
+    {
+      "id": "h8-haiti",
+      "subjectId": "historia",
+      "title": "Revolução do Haiti",
+      "slug": "revolucao-do-haiti",
+      "unit": "Independências nas Américas",
+      "order": 107,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI10"
+      ]
+    },
+    {
+      "id": "h8-brasil-1808-1822",
+      "subjectId": "historia",
+      "title": "Brasil: da Corte (1808) à Independência (1822)",
+      "slug": "brasil-da-corte-a-independencia",
+      "unit": "Independências nas Américas",
+      "order": 108,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI12",
+        "EF08HI13"
+      ]
+    },
+    {
+      "id": "h8-tutela-escravidao",
+      "subjectId": "historia",
+      "title": "Indígenas, negros e tutela no fim do período colonial",
+      "slug": "indigenas-negros-e-tutela",
+      "unit": "Independências nas Américas",
+      "order": 109,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI14"
+      ]
+    },
+    {
+      "id": "h8-primeiro-reinado",
+      "subjectId": "historia",
+      "title": "Primeiro Reinado",
+      "slug": "primeiro-reinado",
+      "unit": "O Brasil no século XIX",
+      "order": 110,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI15"
+      ]
+    },
+    {
+      "id": "h8-regencia",
+      "subjectId": "historia",
+      "title": "Período Regencial e rebeliões",
+      "slug": "periodo-regencial-e-rebelioes",
+      "unit": "O Brasil no século XIX",
+      "order": 111,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI16"
+      ]
+    },
+    {
+      "id": "h8-segundo-reinado",
+      "subjectId": "historia",
+      "title": "Segundo Reinado: política e economia",
+      "slug": "segundo-reinado",
+      "unit": "O Brasil no século XIX",
+      "order": 112,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI15",
+        "EF08HI17"
+      ]
+    },
+    {
+      "id": "h8-paraguai",
+      "subjectId": "historia",
+      "title": "Guerra do Paraguai",
+      "slug": "guerra-do-paraguai",
+      "unit": "O Brasil no século XIX",
+      "order": 113,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI18"
+      ]
+    },
+    {
+      "id": "h8-escravidao-abolicao",
+      "subjectId": "historia",
+      "title": "Escravidão, abolicionismo e imigração",
+      "slug": "escravidao-abolicionismo-imigracao",
+      "unit": "O Brasil no século XIX",
+      "order": 114,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI19",
+        "EF08HI20"
+      ]
+    },
+    {
+      "id": "h8-indigenas-imperio",
+      "subjectId": "historia",
+      "title": "Políticas indigenistas no Império",
+      "slug": "politicas-indigenistas-no-imperio",
+      "unit": "O Brasil no século XIX",
+      "order": 115,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI21"
+      ]
+    },
+    {
+      "id": "h8-cultura-xix",
+      "subjectId": "historia",
+      "title": "Cultura e identidade no século XIX",
+      "slug": "cultura-e-identidade-seculo-xix",
+      "unit": "O Brasil no século XIX",
+      "order": 116,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI22"
+      ]
+    },
+    {
+      "id": "h8-nacionalismo",
+      "subjectId": "historia",
+      "title": "Nacionalismo e novas nações europeias",
+      "slug": "nacionalismo-e-novas-nacoes",
+      "unit": "Configurações do mundo no século XIX",
+      "order": 117,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI23"
+      ]
+    },
+    {
+      "id": "h8-imperialismo",
+      "subjectId": "historia",
+      "title": "Imperialismo e partilha da África e da Ásia",
+      "slug": "imperialismo-partilha-africa-asia",
+      "unit": "Configurações do mundo no século XIX",
+      "order": 118,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI24",
+        "EF08HI26"
+      ]
+    },
+    {
+      "id": "h8-eua-al",
+      "subjectId": "historia",
+      "title": "EUA e América Latina no século XIX",
+      "slug": "eua-e-america-latina-seculo-xix",
+      "unit": "Configurações do mundo no século XIX",
+      "order": 119,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08HI25"
+      ]
+    },
+    {
+      "id": "h9-proclamacao",
+      "subjectId": "historia",
+      "title": "Proclamação da República e primeiros anos",
+      "slug": "proclamacao-da-republica",
+      "unit": "Nascimento da República e Brasil até meados do século XX",
+      "order": 200,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI01",
+        "EF09HI02"
+      ]
+    },
+    {
+      "id": "h9-pos-abolicao",
+      "subjectId": "historia",
+      "title": "Pós-abolição e população negra",
+      "slug": "pos-abolicao-e-populacao-negra",
+      "unit": "Nascimento da República e Brasil até meados do século XX",
+      "order": 201,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI03",
+        "EF09HI04"
+      ]
+    },
+    {
+      "id": "h9-urbanizacao",
+      "subjectId": "historia",
+      "title": "Urbanização e modernização (1900–1930)",
+      "slug": "urbanizacao-e-modernizacao-1900-1930",
+      "unit": "Nascimento da República e Brasil até meados do século XX",
+      "order": 202,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI05"
+      ]
+    },
+    {
+      "id": "h9-vargas",
+      "subjectId": "historia",
+      "title": "Trabalhismo e Era Vargas",
+      "slug": "trabalhismo-e-era-vargas",
+      "unit": "Nascimento da República e Brasil até meados do século XX",
+      "order": 203,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI06"
+      ]
+    },
+    {
+      "id": "h9-indigenas-republica",
+      "subjectId": "historia",
+      "title": "Questão indígena na República (até 1964)",
+      "slug": "questao-indigena-na-republica",
+      "unit": "Nascimento da República e Brasil até meados do século XX",
+      "order": 204,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI07"
+      ]
+    },
+    {
+      "id": "h9-movimentos-sociais",
+      "subjectId": "historia",
+      "title": "Movimentos sociais, anarquismo e protagonismo feminino",
+      "slug": "movimentos-sociais-e-diversidade",
+      "unit": "Nascimento da República e Brasil até meados do século XX",
+      "order": 205,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI08",
+        "EF09HI09"
+      ]
+    },
+    {
+      "id": "h9-primeira-guerra",
+      "subjectId": "historia",
+      "title": "Primeira Guerra Mundial",
+      "slug": "primeira-guerra-mundial",
+      "unit": "Totalitarismos e conflitos mundiais",
+      "order": 206,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI10"
+      ]
+    },
+    {
+      "id": "h9-revolucao-russa",
+      "subjectId": "historia",
+      "title": "Revolução Russa",
+      "slug": "revolucao-russa",
+      "unit": "Totalitarismos e conflitos mundiais",
+      "order": 207,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI11"
+      ]
+    },
+    {
+      "id": "h9-crise-1929",
+      "subjectId": "historia",
+      "title": "Crise capitalista de 1929",
+      "slug": "crise-de-1929",
+      "unit": "Totalitarismos e conflitos mundiais",
+      "order": 208,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI12"
+      ]
+    },
+    {
+      "id": "h9-fascismo-nazismo",
+      "subjectId": "historia",
+      "title": "Fascismo, nazismo e Holocausto",
+      "slug": "fascismo-nazismo-e-holocausto",
+      "unit": "Totalitarismos e conflitos mundiais",
+      "order": 209,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI13"
+      ]
+    },
+    {
+      "id": "h9-segunda-guerra",
+      "subjectId": "historia",
+      "title": "Segunda Guerra Mundial",
+      "slug": "segunda-guerra-mundial",
+      "unit": "Totalitarismos e conflitos mundiais",
+      "order": 210,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI10",
+        "EF09HI14"
+      ]
+    },
+    {
+      "id": "h9-onu-dh",
+      "subjectId": "historia",
+      "title": "ONU e Direitos Humanos",
+      "slug": "onu-e-direitos-humanos",
+      "unit": "Totalitarismos e conflitos mundiais",
+      "order": 211,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI15",
+        "EF09HI16"
+      ]
+    },
+    {
+      "id": "h9-1946-1964",
+      "subjectId": "historia",
+      "title": "Brasil 1946–1964 e era JK",
+      "slug": "brasil-1946-1964-e-era-jk",
+      "unit": "Brasil após 1946: modernização, ditadura e redemocratização",
+      "order": 212,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI17",
+        "EF09HI18"
+      ]
+    },
+    {
+      "id": "h9-ditadura",
+      "subjectId": "historia",
+      "title": "Ditadura civil-militar",
+      "slug": "ditadura-civil-militar",
+      "unit": "Brasil após 1946: modernização, ditadura e redemocratização",
+      "order": 213,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI19"
+      ]
+    },
+    {
+      "id": "h9-resistencia",
+      "subjectId": "historia",
+      "title": "Resistências à ditadura",
+      "slug": "resistencias-a-ditadura",
+      "unit": "Brasil após 1946: modernização, ditadura e redemocratização",
+      "order": 214,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI20"
+      ]
+    },
+    {
+      "id": "h9-redemocratizacao",
+      "subjectId": "historia",
+      "title": "Redemocratização e Constituição de 1988",
+      "slug": "redemocratizacao-e-constituicao-1988",
+      "unit": "Brasil após 1946: modernização, ditadura e redemocratização",
+      "order": 215,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI22",
+        "EF09HI23"
+      ]
+    },
+    {
+      "id": "h9-brasil-recente",
+      "subjectId": "historia",
+      "title": "Brasil de 1989 aos dias atuais",
+      "slug": "brasil-1989-aos-dias-atuais",
+      "unit": "Brasil após 1946: modernização, ditadura e redemocratização",
+      "order": 216,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI24",
+        "EF09HI25",
+        "EF09HI27"
+      ]
+    },
+    {
+      "id": "h9-guerra-fria",
+      "subjectId": "historia",
+      "title": "Guerra Fria",
+      "slug": "guerra-fria",
+      "unit": "História recente (mundo)",
+      "order": 217,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI28"
+      ]
+    },
+    {
+      "id": "h9-ditaduras-al",
+      "subjectId": "historia",
+      "title": "Ditaduras na América Latina",
+      "slug": "ditaduras-na-america-latina",
+      "unit": "História recente (mundo)",
+      "order": 218,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI29",
+        "EF09HI30"
+      ]
+    },
+    {
+      "id": "h9-descolonizacao",
+      "subjectId": "historia",
+      "title": "Descolonização na África e na Ásia",
+      "slug": "descolonizacao-africa-asia",
+      "unit": "História recente (mundo)",
+      "order": 219,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI31"
+      ]
+    },
+    {
+      "id": "h9-globalizacao",
+      "subjectId": "historia",
+      "title": "Fim da Guerra Fria e globalização",
+      "slug": "globalizacao",
+      "unit": "História recente (mundo)",
+      "order": 220,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09HI32",
+        "EF09HI33"
+      ]
+    },
+    {
+      "id": "h1-ponte-imperio-republica",
+      "subjectId": "historia",
+      "title": "Ponte: do Império à República (síntese)",
+      "slug": "ponte-imperio-a-republica",
+      "unit": "1º colegial — aprofundamento",
+      "order": 300,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "h1-mundo-contemporaneo",
+      "subjectId": "historia",
+      "title": "Mundo contemporâneo: industrialização às guerras",
+      "slug": "mundo-contemporaneo-industrializacao-guerras",
+      "unit": "1º colegial — aprofundamento",
+      "order": 301,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "h1-brasil-seculo-xx",
+      "subjectId": "historia",
+      "title": "Brasil no século XX — roteiro do 1º médio",
+      "slug": "brasil-no-seculo-xx-roteiro",
+      "unit": "1º colegial — aprofundamento",
+      "order": 302,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "h1-cidadania-fontes",
+      "subjectId": "historia",
+      "title": "Cidadania, direitos e fontes históricas",
+      "slug": "cidadania-direitos-e-fontes-historicas",
+      "unit": "1º colegial — aprofundamento",
+      "order": 303,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    }
+  ],
+  "sharedContentSlugs": [
+    "proclamacao-da-republica",
+    "trabalhismo-e-era-vargas",
+    "primeira-guerra-mundial",
+    "segunda-guerra-mundial",
+    "ditadura-civil-militar",
+    "redemocratizacao-e-constituicao-1988",
+    "guerra-fria"
+  ]
+}

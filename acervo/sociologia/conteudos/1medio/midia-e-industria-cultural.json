@@ -1,0 +1,28 @@
+{
+  "id": "content-s1-midia",
+  "topicId": "s1-midia",
+  "subjectId": "sociologia",
+  "slug": "midia-e-industria-cultural",
+  "title": "Mídia e indústria cultural",
+  "summary": "Consumo, redes e opinião pública.",
+  "body": "## Comunicação\n\nIndústria cultural, redes sociais, bolhas e desinformação. Leitura crítica de mídia é competência cidadã.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Mídia e indústria cultural\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Indústria cultural (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Ind%C3%BAstria_cultural",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

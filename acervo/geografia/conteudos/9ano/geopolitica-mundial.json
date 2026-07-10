@@ -1,0 +1,29 @@
+{
+  "id": "content-g9-geopolitica",
+  "topicId": "g9-geopolitica",
+  "subjectId": "geografia",
+  "slug": "geopolitica-mundial",
+  "title": "Geopolítica mundial",
+  "summary": "Poder, territórios e conflitos.",
+  "body": "## Ideias\n\nEstados, fronteiras, recursos estratégicos, guerras e organizações internacionais. Leia mapas políticos atualizados.",
+  "levels": [
+    "9ano",
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "9º ano — Brasil e globalização",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Geopolítica mundial\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Geopolítica (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Geopol%C3%ADtica",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

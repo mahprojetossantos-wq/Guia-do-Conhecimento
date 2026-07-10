@@ -1,0 +1,22 @@
+{
+  "subjectId": "filosofia",
+  "generatedAt": "2026-07-10",
+  "counts": {
+    "topics": 6,
+    "files8": 0,
+    "files9": 0,
+    "files1": 6
+  },
+  "folders": {
+    "conteudos/8ano": [],
+    "conteudos/9ano": [],
+    "conteudos/1medio": [
+      "o-que-e-filosofia.json",
+      "mito-e-razao.json",
+      "socrates-platao-aristoteles.json",
+      "etica-e-moral.json",
+      "filosofia-politica-intro.json",
+      "teoria-do-conhecimento.json"
+    ]
+  }
+}

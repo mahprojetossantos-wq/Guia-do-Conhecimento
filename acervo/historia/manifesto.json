@@ -1,0 +1,73 @@
+{
+  "subjectId": "historia",
+  "generatedAt": "2026-07-10",
+  "counts": {
+    "topics": 45,
+    "contents8": 20,
+    "contents9": 21,
+    "contents1": 4,
+    "shared": 7
+  },
+  "folders": {
+    "conteudos/8ano": [
+      "iluminismo-e-liberalismo.json",
+      "revolucoes-inglesas-e-liberalismo.json",
+      "revolucao-industrial.json",
+      "revolucao-francesa.json",
+      "conjuracoes-mineira-e-baiana.json",
+      "independencia-eua-e-conceitos-de-estado.json",
+      "independencias-america-espanhola.json",
+      "revolucao-do-haiti.json",
+      "brasil-da-corte-a-independencia.json",
+      "indigenas-negros-e-tutela.json",
+      "primeiro-reinado.json",
+      "periodo-regencial-e-rebelioes.json",
+      "segundo-reinado.json",
+      "guerra-do-paraguai.json",
+      "escravidao-abolicionismo-imigracao.json",
+      "politicas-indigenistas-no-imperio.json",
+      "cultura-e-identidade-seculo-xix.json",
+      "nacionalismo-e-novas-nacoes.json",
+      "imperialismo-partilha-africa-asia.json",
+      "eua-e-america-latina-seculo-xix.json"
+    ],
+    "conteudos/9ano": [
+      "proclamacao-da-republica.json",
+      "pos-abolicao-e-populacao-negra.json",
+      "urbanizacao-e-modernizacao-1900-1930.json",
+      "trabalhismo-e-era-vargas.json",
+      "questao-indigena-na-republica.json",
+      "movimentos-sociais-e-diversidade.json",
+      "primeira-guerra-mundial.json",
+      "revolucao-russa.json",
+      "crise-de-1929.json",
+      "fascismo-nazismo-e-holocausto.json",
+      "segunda-guerra-mundial.json",
+      "onu-e-direitos-humanos.json",
+      "brasil-1946-1964-e-era-jk.json",
+      "ditadura-civil-militar.json",
+      "resistencias-a-ditadura.json",
+      "redemocratizacao-e-constituicao-1988.json",
+      "brasil-1989-aos-dias-atuais.json",
+      "guerra-fria.json",
+      "ditaduras-na-america-latina.json",
+      "descolonizacao-africa-asia.json",
+      "globalizacao.json"
+    ],
+    "conteudos/1medio": [
+      "ponte-imperio-a-republica.json",
+      "mundo-contemporaneo-industrializacao-guerras.json",
+      "brasil-no-seculo-xx-roteiro.json",
+      "cidadania-direitos-e-fontes-historicas.json"
+    ],
+    "conteudos/compartilhado": [
+      "proclamacao-da-republica.json",
+      "trabalhismo-e-era-vargas.json",
+      "primeira-guerra-mundial.json",
+      "segunda-guerra-mundial.json",
+      "ditadura-civil-militar.json",
+      "redemocratizacao-e-constituicao-1988.json",
+      "guerra-fria.json"
+    ]
+  }
+}

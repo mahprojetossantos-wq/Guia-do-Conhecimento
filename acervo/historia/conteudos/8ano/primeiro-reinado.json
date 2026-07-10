@@ -1,0 +1,30 @@
+{
+  "id": "content-h8-primeiro-reinado",
+  "topicId": "h8-primeiro-reinado",
+  "subjectId": "historia",
+  "slug": "primeiro-reinado",
+  "title": "Primeiro Reinado",
+  "summary": "D. Pedro I: Constituição de 1824, Confederação do Equador e abdicação.",
+  "body": "## Visão geral\n\nApós 1822, D. Pedro I governou o Império do Brasil. A **Constituição de 1824** criou o Poder Moderador, reforçando a autoridade do imperador.\n\n## Tensões\n\n- Conflitos com elites provinciais\n- Guerra da Cisplatina\n- Confederação do Equador (1824)\n- Desgaste político e abdicação em 1831\n\nO Primeiro Reinado consolidou a monarquia, mas com muita contestação.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI15"
+  ],
+  "unit": "O Brasil no século XIX",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Primeiro Reinado\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Primeiro Reinado (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Primeiro_Reinado",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

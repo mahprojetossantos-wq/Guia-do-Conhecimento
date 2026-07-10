@@ -1,0 +1,29 @@
+{
+  "id": "content-g8-biomas",
+  "topicId": "g8-biomas",
+  "subjectId": "geografia",
+  "slug": "biomas-brasileiros",
+  "title": "Biomas brasileiros",
+  "summary": "Amazônia, Cerrado, Mata Atlântica, Caatinga, Pampa, Pantanal.",
+  "body": "## Biomas\n\nCada bioma tem clima, solo e biodiversidade próprios. Pressões: desmatamento, queimadas, urbanização. Estude características + ameaças.",
+  "levels": [
+    "8ano",
+    "9ano"
+  ],
+  "bnccCodes": [],
+  "unit": "8º ano — Natureza e sociedade",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Biomas brasileiros\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Biomas do Brasil (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Lista_de_biomas_do_Brasil",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

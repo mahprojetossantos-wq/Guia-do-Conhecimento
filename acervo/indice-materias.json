@@ -1,0 +1,183 @@
+{
+  "generatedAt": "2026-07-10",
+  "note": "História já existia em acervo/historia. Demais matérias geradas por este script.",
+  "subjects": [
+    {
+      "id": "historia",
+      "slug": "historia",
+      "name": "História",
+      "order": 1
+    },
+    {
+      "id": "matematica",
+      "slug": "matematica",
+      "name": "Matemática",
+      "order": 2
+    },
+    {
+      "id": "lingua-portuguesa",
+      "slug": "lingua-portuguesa",
+      "name": "Língua Portuguesa",
+      "order": 3
+    },
+    {
+      "id": "geografia",
+      "slug": "geografia",
+      "name": "Geografia",
+      "order": 4
+    },
+    {
+      "id": "ciencias",
+      "slug": "ciencias",
+      "name": "Ciências",
+      "order": 5
+    },
+    {
+      "id": "biologia",
+      "slug": "biologia",
+      "name": "Biologia",
+      "order": 6
+    },
+    {
+      "id": "fisica",
+      "slug": "fisica",
+      "name": "Física",
+      "order": 7
+    },
+    {
+      "id": "quimica",
+      "slug": "quimica",
+      "name": "Química",
+      "order": 8
+    },
+    {
+      "id": "ingles",
+      "slug": "ingles",
+      "name": "Inglês",
+      "order": 9
+    },
+    {
+      "id": "literatura",
+      "slug": "literatura",
+      "name": "Literatura",
+      "order": 10
+    },
+    {
+      "id": "filosofia",
+      "slug": "filosofia",
+      "name": "Filosofia",
+      "order": 11
+    },
+    {
+      "id": "sociologia",
+      "slug": "sociologia",
+      "name": "Sociologia",
+      "order": 12
+    },
+    {
+      "id": "arte",
+      "slug": "arte",
+      "name": "Arte",
+      "order": 13
+    },
+    {
+      "id": "educacao-fisica",
+      "slug": "educacao-fisica",
+      "name": "Educação Física",
+      "order": 14
+    }
+  ],
+  "generationSummary": [
+    {
+      "name": "Matemática",
+      "topics": 20,
+      "files8": 8,
+      "files9": 7,
+      "files1": 5
+    },
+    {
+      "name": "Língua Portuguesa",
+      "topics": 13,
+      "files8": 5,
+      "files9": 5,
+      "files1": 3
+    },
+    {
+      "name": "Geografia",
+      "topics": 12,
+      "files8": 4,
+      "files9": 6,
+      "files1": 2
+    },
+    {
+      "name": "Ciências",
+      "topics": 11,
+      "files8": 5,
+      "files9": 6,
+      "files1": 0
+    },
+    {
+      "name": "Biologia",
+      "topics": 8,
+      "files8": 0,
+      "files9": 0,
+      "files1": 8
+    },
+    {
+      "name": "Física",
+      "topics": 7,
+      "files8": 0,
+      "files9": 0,
+      "files1": 7
+    },
+    {
+      "name": "Química",
+      "topics": 7,
+      "files8": 0,
+      "files9": 0,
+      "files1": 7
+    },
+    {
+      "name": "Inglês",
+      "topics": 11,
+      "files8": 4,
+      "files9": 4,
+      "files1": 3
+    },
+    {
+      "name": "Literatura",
+      "topics": 6,
+      "files8": 0,
+      "files9": 1,
+      "files1": 5
+    },
+    {
+      "name": "Filosofia",
+      "topics": 6,
+      "files8": 0,
+      "files9": 0,
+      "files1": 6
+    },
+    {
+      "name": "Sociologia",
+      "topics": 6,
+      "files8": 0,
+      "files9": 0,
+      "files1": 6
+    },
+    {
+      "name": "Arte",
+      "topics": 5,
+      "files8": 2,
+      "files9": 2,
+      "files1": 1
+    },
+    {
+      "name": "Educação Física",
+      "topics": 5,
+      "files8": 1,
+      "files9": 3,
+      "files1": 1
+    }
+  ]
+}

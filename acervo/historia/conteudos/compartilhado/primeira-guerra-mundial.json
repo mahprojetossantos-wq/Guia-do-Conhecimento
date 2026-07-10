@@ -1,0 +1,32 @@
+{
+  "id": "content-shared-primeira-guerra-mundial",
+  "topicId": "h9-primeira-guerra",
+  "subjectId": "historia",
+  "slug": "primeira-guerra-mundial",
+  "title": "Primeira Guerra Mundial",
+  "summary": "1914–1918: guerra total e novo mapa mundial.",
+  "body": "## Causas\n\nRivalidades imperialistas, nacionalismos, sistema de alianças e o estopim de Sarajevo (1914).\n\n## Características\n\nGuerra de trincheiras, armas novas, milhões de mortos. O Brasil entrou tardiamente (1917) ao lado da Tríplice Entente.\n\n## Consequências\n\nTratado de Versalhes, fim de impérios, criação da Liga das Nações e terreno para crises dos anos 1920–1930.",
+  "levels": [
+    "9ano",
+    "1medio"
+  ],
+  "bnccCodes": [
+    "EF09HI10"
+  ],
+  "unit": "Totalitarismos e conflitos mundiais",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Primeira Guerra Mundial\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Primeira Guerra Mundial (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Primeira_Guerra_Mundial",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10",
+  "note": "Versão compartilhada 9º + 1º médio (mesmo texto-base)."
+}

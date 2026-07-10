@@ -1,0 +1,79 @@
+{
+  "subjectId": "filosofia",
+  "generatedAt": "2026-07-10",
+  "totalTopics": 6,
+  "topics": [
+    {
+      "id": "fil1-o-que-e",
+      "subjectId": "filosofia",
+      "title": "O que é Filosofia?",
+      "slug": "o-que-e-filosofia",
+      "unit": "1º médio",
+      "order": 1,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "fil1-mitos",
+      "subjectId": "filosofia",
+      "title": "Mito e razão",
+      "slug": "mito-e-razao",
+      "unit": "1º médio",
+      "order": 2,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "fil1-socrates",
+      "subjectId": "filosofia",
+      "title": "Sócrates, Platão e Aristóteles",
+      "slug": "socrates-platao-aristoteles",
+      "unit": "1º médio",
+      "order": 3,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "fil1-etica",
+      "subjectId": "filosofia",
+      "title": "Ética e moral",
+      "slug": "etica-e-moral",
+      "unit": "1º médio",
+      "order": 4,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "fil1-politica",
+      "subjectId": "filosofia",
+      "title": "Filosofia política (intro)",
+      "slug": "filosofia-politica-intro",
+      "unit": "1º médio",
+      "order": 5,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "fil1-conhecimento",
+      "subjectId": "filosofia",
+      "title": "Teoria do conhecimento",
+      "slug": "teoria-do-conhecimento",
+      "unit": "1º médio",
+      "order": 6,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    }
+  ]
+}

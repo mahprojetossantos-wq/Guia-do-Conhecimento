@@ -1,0 +1,31 @@
+{
+  "id": "content-h8-imperialismo",
+  "topicId": "h8-imperialismo",
+  "subjectId": "historia",
+  "slug": "imperialismo-partilha-africa-asia",
+  "title": "Imperialismo e partilha da África e da Ásia",
+  "summary": "Dominação europeia e resistências locais.",
+  "body": "## O que foi o imperialismo?\n\nPotências industriais europeias (e também EUA e Japão em contextos distintos) expandiram domínio político e econômico sobre África e Ásia no fim do século XIX.\n\n## Partilha da África\n\nConferências e acordos europeus dividiram territórios africanos sem respeito às sociedades locais. Exploração de recursos e trabalho, violência e racismo marcaram o processo.\n\n## Resistências\n\nPovos africanos e asiáticos resistiram de muitas formas — guerras, diplomacia, preservação cultural. Não foram sujeitos passivos.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI24",
+    "EF08HI26"
+  ],
+  "unit": "Configurações do mundo no século XIX",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Imperialismo e partilha da África e da Ásia\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Partilha da África (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Partilha_de_%C3%81frica",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

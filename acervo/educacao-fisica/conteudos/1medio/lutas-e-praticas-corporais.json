@@ -1,0 +1,28 @@
+{
+  "id": "content-ef1-luta",
+  "topicId": "ef1-luta",
+  "subjectId": "educacao-fisica",
+  "slug": "lutas-e-praticas-corporais",
+  "title": "Lutas e práticas corporais",
+  "summary": "Capoeira, artes marciais e respeito.",
+  "body": "## Práticas\n\nLutas como cultura e esporte. Ética, segurança e combate à violência.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "Cultura corporal e saúde",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Lutas e práticas corporais\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Capoeira (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Capoeira",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

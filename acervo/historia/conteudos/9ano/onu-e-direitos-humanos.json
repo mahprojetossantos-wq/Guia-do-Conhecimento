@@ -1,0 +1,31 @@
+{
+  "id": "content-h9-onu-dh",
+  "topicId": "h9-onu-dh",
+  "subjectId": "historia",
+  "slug": "onu-e-direitos-humanos",
+  "title": "ONU e Direitos Humanos",
+  "summary": "Pós-guerra: organização internacional e a Declaração de 1948.",
+  "body": "## ONU\n\nCriada em 1945 para tentar evitar nova guerra mundial e promover cooperação. Tem limitações políticas, mas é marco institucional do século XX.\n\n## Direitos Humanos\n\nA Declaração Universal (1948) afirma dignidade e direitos fundamentais. Serve de referência para denunciar violações — inclusive em ditaduras e desigualdades contemporâneas.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09HI15",
+    "EF09HI16"
+  ],
+  "unit": "Totalitarismos e conflitos mundiais",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"ONU e Direitos Humanos\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Organização das Nações Unidas (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Organiza%C3%A7%C3%A3o_das_Na%C3%A7%C3%B5es_Unidas",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

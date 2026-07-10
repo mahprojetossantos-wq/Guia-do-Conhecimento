@@ -1,0 +1,28 @@
+{
+  "id": "content-b1-metabolismo",
+  "topicId": "b1-metabolismo",
+  "subjectId": "biologia",
+  "slug": "metabolismo-energetico",
+  "title": "Metabolismo energético",
+  "summary": "Fotossíntese e respiração celular.",
+  "body": "## Energia\n\nFotossíntese: luz → glicose. Respiração celular: glicose → ATP. Relacione produtores e consumidores na ecologia.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Bases da Biologia",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Metabolismo energético\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Respiração celular (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Respira%C3%A7%C3%A3o_celular",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

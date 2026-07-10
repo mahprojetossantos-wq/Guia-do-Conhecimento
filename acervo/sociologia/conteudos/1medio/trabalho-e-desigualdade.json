@@ -1,0 +1,28 @@
+{
+  "id": "content-s1-trabalho",
+  "topicId": "s1-trabalho",
+  "subjectId": "sociologia",
+  "slug": "trabalho-e-desigualdade",
+  "title": "Trabalho e desigualdade",
+  "summary": "Mercado de trabalho e estratificação.",
+  "body": "## Temas\n\nDivisão do trabalho, precariedade, gênero, raça e classe. Dados e conceitos > achismo.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Trabalho e desigualdade\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Desigualdade social (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Desigualdade_social",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

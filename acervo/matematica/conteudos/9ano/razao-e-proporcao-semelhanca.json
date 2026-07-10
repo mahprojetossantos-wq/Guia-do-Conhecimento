@@ -1,0 +1,30 @@
+{
+  "id": "content-m9-razao",
+  "topicId": "m9-razao",
+  "subjectId": "matematica",
+  "slug": "razao-e-proporcao-semelhanca",
+  "title": "Razão, proporção e semelhança",
+  "summary": "Escalas e triângulos semelhantes.",
+  "body": "## Semelhança\n\nTriângulos com ângulos iguais têm lados proporcionais. Use em mapas, sombras e problemas de altura.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09MA12"
+  ],
+  "unit": "9º ano — Álgebra e funções",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Razão, proporção e semelhança\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Semelhança de triângulos (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Semelhan%C3%A7a_de_tri%C3%A2ngulos",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

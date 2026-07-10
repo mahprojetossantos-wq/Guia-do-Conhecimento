@@ -1,0 +1,22 @@
+{
+  "subjectId": "sociologia",
+  "generatedAt": "2026-07-10",
+  "counts": {
+    "topics": 6,
+    "files8": 0,
+    "files9": 0,
+    "files1": 6
+  },
+  "folders": {
+    "conteudos/8ano": [],
+    "conteudos/9ano": [],
+    "conteudos/1medio": [
+      "o-que-e-sociologia.json",
+      "marx-weber-durkheim.json",
+      "cultura-e-identidade.json",
+      "trabalho-e-desigualdade.json",
+      "poder-estado-e-cidadania.json",
+      "midia-e-industria-cultural.json"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "content-g8-industria",
+  "topicId": "g8-industria",
+  "subjectId": "geografia",
+  "slug": "industria-e-energia",
+  "title": "Indústria e energia",
+  "summary": "Tipos de indústria e matrizes energéticas.",
+  "body": "## Indústria\n\nExtrativa, de transformação, bens de consumo/capital. Energia: hidrelétrica, térmica, eólica, solar — vantagens e impactos.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [],
+  "unit": "8º ano — Natureza e sociedade",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Indústria e energia\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Indústria (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Ind%C3%BAstria",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

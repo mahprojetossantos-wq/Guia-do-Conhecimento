@@ -1,0 +1,30 @@
+{
+  "id": "content-h8-eua-al",
+  "topicId": "h8-eua-al",
+  "subjectId": "historia",
+  "slug": "eua-e-america-latina-seculo-xix",
+  "title": "EUA e América Latina no século XIX",
+  "summary": "Doutrina Monroe, expansão e influência norte-americana.",
+  "body": "## Relações hemisféricas\n\nNo século XIX, os EUA expandiram território e influência. A Doutrina Monroe e intervenções posteriores sinalizaram pretensão de liderança nas Américas, com impactos duradouros na América Latina.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI25"
+  ],
+  "unit": "Configurações do mundo no século XIX",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"EUA e América Latina no século XIX\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Doutrina Monroe (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Doutrina_Monroe",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

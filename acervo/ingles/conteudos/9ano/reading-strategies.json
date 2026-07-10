@@ -1,0 +1,29 @@
+{
+  "id": "content-i9-reading",
+  "topicId": "i9-reading",
+  "subjectId": "ingles",
+  "slug": "reading-strategies",
+  "title": "Reading strategies",
+  "summary": "Como ler textos em inglês.",
+  "body": "## Estratégias\n\nSkimming (ideia geral), scanning (buscar info), cognatos, contexto. Não traduza palavra por palavra.",
+  "levels": [
+    "9ano",
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "9º ano",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Reading strategies\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Leitura (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Leitura",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

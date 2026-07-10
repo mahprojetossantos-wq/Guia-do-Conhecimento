@@ -1,0 +1,28 @@
+{
+  "id": "content-f1-cinematica",
+  "topicId": "f1-cinematica",
+  "subjectId": "fisica",
+  "slug": "cinematica",
+  "title": "Cinemática",
+  "summary": "MRU, MRUV e gráficos.",
+  "body": "## Movimento\n\nVelocidade média, aceleração. MRU: s = s0 + vt. MRUV: equações de Torricelli e posição. Leia gráficos s×t e v×t.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Mecânica",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Cinemática\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Cinemática (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Cinem%C3%A1tica",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

@@ -1,0 +1,103 @@
+{
+  "subjectId": "biologia",
+  "generatedAt": "2026-07-10",
+  "totalTopics": 8,
+  "topics": [
+    {
+      "id": "b1-metodo",
+      "subjectId": "biologia",
+      "title": "Método científico em Biologia",
+      "slug": "metodo-cientifico-biologia",
+      "unit": "1º médio — Bases da Biologia",
+      "order": 1,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "b1-bioquimica",
+      "subjectId": "biologia",
+      "title": "Bioquímica básica",
+      "slug": "bioquimica-basica",
+      "unit": "1º médio — Bases da Biologia",
+      "order": 2,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "b1-citologia",
+      "subjectId": "biologia",
+      "title": "Citologia",
+      "slug": "citologia",
+      "unit": "1º médio — Bases da Biologia",
+      "order": 3,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "b1-membrana",
+      "subjectId": "biologia",
+      "title": "Membrana e transporte",
+      "slug": "membrana-e-transporte",
+      "unit": "1º médio — Bases da Biologia",
+      "order": 4,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "b1-metabolismo",
+      "subjectId": "biologia",
+      "title": "Metabolismo energético",
+      "slug": "metabolismo-energetico",
+      "unit": "1º médio — Bases da Biologia",
+      "order": 5,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "b1-divisao",
+      "subjectId": "biologia",
+      "title": "Mitose e meiose",
+      "slug": "mitose-e-meiose",
+      "unit": "1º médio — Bases da Biologia",
+      "order": 6,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "b1-virus",
+      "subjectId": "biologia",
+      "title": "Vírus, bactérias e imunidade",
+      "slug": "virus-bacterias-imunidade",
+      "unit": "1º médio — Bases da Biologia",
+      "order": 7,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "b1-ecologia",
+      "subjectId": "biologia",
+      "title": "Ecologia",
+      "slug": "ecologia-1medio",
+      "unit": "1º médio — Bases da Biologia",
+      "order": 8,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    }
+  ]
+}

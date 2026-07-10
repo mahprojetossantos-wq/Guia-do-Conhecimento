@@ -1,0 +1,30 @@
+{
+  "id": "content-h9-revolucao-russa",
+  "topicId": "h9-revolucao-russa",
+  "subjectId": "historia",
+  "slug": "revolucao-russa",
+  "title": "Revolução Russa",
+  "summary": "1917: fim do czarismo e nascimento da URSS.",
+  "body": "## 1917\n\nA Rússia viveu revoluções que derrubaram o czar e levaram os bolcheviques ao poder sob Lenin. Saiu da 1ª Guerra e iniciou um projeto socialista estatal.\n\n## Significado\n\nDividiu o século XX entre capitalismo e socialismo, influenciando movimentos no mundo todo — inclusive debates no Brasil.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09HI11"
+  ],
+  "unit": "Totalitarismos e conflitos mundiais",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Revolução Russa\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Revolução Russa (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_Russa",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

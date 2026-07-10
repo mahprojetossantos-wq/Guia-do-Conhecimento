@@ -1,0 +1,30 @@
+{
+  "id": "content-p8-classes",
+  "topicId": "p8-classes",
+  "subjectId": "lingua-portuguesa",
+  "slug": "classes-de-palavras",
+  "title": "Classes de palavras",
+  "summary": "Substantivo, verbo, adjetivo e demais classes.",
+  "body": "## Visão geral\n\nAs 10 classes tradicionais ajudam a analisar frases. Foque em substantivo, adjetivo, verbo, pronome, advérbio e conjunção — as mais cobradas em interpretação e reescrita.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08LP"
+  ],
+  "unit": "8º ano — Língua e texto",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Classes de palavras\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Classe gramatical (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Classe_gramatical",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "content-h8-ind-hispano",
+  "topicId": "h8-ind-hispano",
+  "subjectId": "historia",
+  "slug": "independencias-america-espanhola",
+  "title": "Independências na América espanhola",
+  "summary": "Fragmentação do império espanhol e novos países na América.",
+  "body": "## Contexto\n\nA crise da monarquia espanhola (invasão napoleônica) abriu espaço para juntas e guerras de independência na América hispânica (início do século XIX).\n\n## Características\n\n- Lideranças como Bolívar e San Martín\n- Guerras longas e fragmentação em várias repúblicas\n- Permanência de desigualdades sociais e poder das elites criollas\n- Diferentes formas de governo após a independência\n\n## Comparar com o Brasil\n\nNo Brasil, a independência (1822) manteve monarquia e unidade territorial relativa, caminho distinto do hispânico.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI07",
+    "EF08HI08"
+  ],
+  "unit": "Independências nas Américas",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Independências na América espanhola\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Independência da América Espanhola (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Independ%C3%AAncia_hispano-americana",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

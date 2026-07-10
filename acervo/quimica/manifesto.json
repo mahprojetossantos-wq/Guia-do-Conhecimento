@@ -1,0 +1,23 @@
+{
+  "subjectId": "quimica",
+  "generatedAt": "2026-07-10",
+  "counts": {
+    "topics": 7,
+    "files8": 0,
+    "files9": 0,
+    "files1": 7
+  },
+  "folders": {
+    "conteudos/8ano": [],
+    "conteudos/9ano": [],
+    "conteudos/1medio": [
+      "modelos-atomicos.json",
+      "tabela-periodica.json",
+      "ligacoes-quimicas.json",
+      "funcoes-inorganicas.json",
+      "tipos-de-reacoes.json",
+      "mol-e-massa-molar.json",
+      "estequiometria-intro.json"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "content-l9-generos-lit",
+  "topicId": "l9-generos-lit",
+  "subjectId": "literatura",
+  "slug": "generos-literarios",
+  "title": "Gêneros literários",
+  "summary": "Épico, lírico e dramático (visão escolar).",
+  "body": "## Três grandes eixos\n\nNarrativa/épico, lírico (subjetividade) e drama (teatro). Hoje os gêneros se misturam — use como mapa, não prisão.",
+  "levels": [
+    "9ano",
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "Fundamentos",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Gêneros literários\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Gênero literário (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/G%C3%AAnero_liter%C3%A1rio",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

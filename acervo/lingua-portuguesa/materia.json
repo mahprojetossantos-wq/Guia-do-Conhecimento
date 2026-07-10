@@ -1,0 +1,14 @@
+{
+  "id": "lingua-portuguesa",
+  "name": "Língua Portuguesa",
+  "slug": "lingua-portuguesa",
+  "order": 3,
+  "levels": [
+    "8ano",
+    "9ano",
+    "1medio"
+  ],
+  "color": "#DC2626",
+  "description": "Leitura, gramática, produção textual e variação linguística.",
+  "updatedAt": "2026-07-10"
+}

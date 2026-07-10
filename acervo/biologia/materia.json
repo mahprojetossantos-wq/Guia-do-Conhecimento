@@ -1,0 +1,12 @@
+{
+  "id": "biologia",
+  "name": "Biologia",
+  "slug": "biologia",
+  "order": 6,
+  "levels": [
+    "1medio"
+  ],
+  "color": "#16A34A",
+  "description": "Biologia do 1º colegial — célula, bioquímica, biodiversidade e ecologia.",
+  "updatedAt": "2026-07-10"
+}

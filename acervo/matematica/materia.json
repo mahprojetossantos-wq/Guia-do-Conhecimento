@@ -1,0 +1,14 @@
+{
+  "id": "matematica",
+  "name": "Matemática",
+  "slug": "matematica",
+  "order": 2,
+  "levels": [
+    "8ano",
+    "9ano",
+    "1medio"
+  ],
+  "color": "#2563EB",
+  "description": "Números, álgebra, geometria, grandezas e probabilidade — 8º, 9º e 1º médio.",
+  "updatedAt": "2026-07-10"
+}

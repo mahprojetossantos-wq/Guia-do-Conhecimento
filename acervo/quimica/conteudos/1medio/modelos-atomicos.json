@@ -1,0 +1,28 @@
+{
+  "id": "content-q1-atomo",
+  "topicId": "q1-atomo",
+  "subjectId": "quimica",
+  "slug": "modelos-atomicos",
+  "title": "Modelos atômicos",
+  "summary": "Dalton, Thomson, Rutherford, Bohr (visão escolar).",
+  "body": "## Evolução dos modelos\n\nCada modelo responde a experimentos da época. Hoje usamos modelo em nuvem eletrônica, mas Bohr ainda ajuda no ensino médio.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Fundamentos",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Modelos atômicos\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Modelo atômico (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Modelo_at%C3%B4mico",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

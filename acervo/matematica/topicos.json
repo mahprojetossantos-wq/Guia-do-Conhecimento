@@ -1,0 +1,277 @@
+{
+  "subjectId": "matematica",
+  "generatedAt": "2026-07-10",
+  "totalTopics": 20,
+  "topics": [
+    {
+      "id": "m8-potencias",
+      "subjectId": "matematica",
+      "title": "Potências e radicais",
+      "slug": "potencias-e-radicais",
+      "unit": "8º ano — Números e álgebra",
+      "order": 1,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08MA01"
+      ]
+    },
+    {
+      "id": "m8-notacao",
+      "subjectId": "matematica",
+      "title": "Notação científica",
+      "slug": "notacao-cientifica",
+      "unit": "8º ano — Números e álgebra",
+      "order": 2,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08MA01"
+      ]
+    },
+    {
+      "id": "m8-porcentagem",
+      "subjectId": "matematica",
+      "title": "Porcentagem e juros simples",
+      "slug": "porcentagem-e-juros",
+      "unit": "8º ano — Números e álgebra",
+      "order": 3,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08MA04"
+      ]
+    },
+    {
+      "id": "m8-equacoes",
+      "subjectId": "matematica",
+      "title": "Equações do 1º grau",
+      "slug": "equacoes-1-grau",
+      "unit": "8º ano — Números e álgebra",
+      "order": 4,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08MA09"
+      ]
+    },
+    {
+      "id": "m8-sistemas",
+      "subjectId": "matematica",
+      "title": "Sistemas de equações 2×2",
+      "slug": "sistemas-2x2",
+      "unit": "8º ano — Números e álgebra",
+      "order": 5,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08MA08"
+      ]
+    },
+    {
+      "id": "m8-angulos",
+      "subjectId": "matematica",
+      "title": "Ângulos e paralelismo",
+      "slug": "angulos-e-paralelismo",
+      "unit": "8º ano — Geometria e grandezas",
+      "order": 6,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08MA15"
+      ]
+    },
+    {
+      "id": "m8-triangulos",
+      "subjectId": "matematica",
+      "title": "Triângulos e congruência",
+      "slug": "triangulos-congruencia",
+      "unit": "8º ano — Geometria e grandezas",
+      "order": 7,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08MA14"
+      ]
+    },
+    {
+      "id": "m8-area",
+      "subjectId": "matematica",
+      "title": "Áreas de figuras planas",
+      "slug": "areas-de-figuras-planas",
+      "unit": "8º ano — Geometria e grandezas",
+      "order": 8,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": [
+        "EF08MA19"
+      ]
+    },
+    {
+      "id": "m9-produtos",
+      "subjectId": "matematica",
+      "title": "Produtos notáveis e fatoração",
+      "slug": "produtos-notaveis-fatoracao",
+      "unit": "9º ano — Álgebra e funções",
+      "order": 9,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09MA09"
+      ]
+    },
+    {
+      "id": "m9-eq2",
+      "subjectId": "matematica",
+      "title": "Equações do 2º grau",
+      "slug": "equacoes-2-grau",
+      "unit": "9º ano — Álgebra e funções",
+      "order": 10,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09MA09"
+      ]
+    },
+    {
+      "id": "m9-funcao",
+      "subjectId": "matematica",
+      "title": "Função afim",
+      "slug": "funcao-afim",
+      "unit": "9º ano — Álgebra e funções",
+      "order": 11,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09MA06"
+      ]
+    },
+    {
+      "id": "m9-funcao2",
+      "subjectId": "matematica",
+      "title": "Função quadrática",
+      "slug": "funcao-quadratica",
+      "unit": "9º ano — Álgebra e funções",
+      "order": 12,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09MA06"
+      ]
+    },
+    {
+      "id": "m9-pitagoras",
+      "subjectId": "matematica",
+      "title": "Teorema de Pitágoras",
+      "slug": "teorema-de-pitagoras",
+      "unit": "9º ano — Álgebra e funções",
+      "order": 13,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09MA13"
+      ]
+    },
+    {
+      "id": "m9-razao",
+      "subjectId": "matematica",
+      "title": "Razão, proporção e semelhança",
+      "slug": "razao-e-proporcao-semelhanca",
+      "unit": "9º ano — Álgebra e funções",
+      "order": 14,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09MA12"
+      ]
+    },
+    {
+      "id": "m9-prob",
+      "subjectId": "matematica",
+      "title": "Probabilidade e estatística básica",
+      "slug": "probabilidade-e-estatistica",
+      "unit": "9º ano — Álgebra e funções",
+      "order": 15,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": [
+        "EF09MA20"
+      ]
+    },
+    {
+      "id": "m1-conjuntos",
+      "subjectId": "matematica",
+      "title": "Conjuntos numéricos",
+      "slug": "conjuntos-numericos",
+      "unit": "1º médio — Aprofundamento",
+      "order": 16,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "m1-funcoes",
+      "subjectId": "matematica",
+      "title": "Funções — conceito geral",
+      "slug": "funcoes-conceito",
+      "unit": "1º médio — Aprofundamento",
+      "order": 17,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "m1-exponencial",
+      "subjectId": "matematica",
+      "title": "Função exponencial e logaritmo (intro)",
+      "slug": "funcao-exponencial-log",
+      "unit": "1º médio — Aprofundamento",
+      "order": 18,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "m1-trig",
+      "subjectId": "matematica",
+      "title": "Trigonometria no triângulo retângulo",
+      "slug": "trigonometria-triangulo-retangulo",
+      "unit": "1º médio — Aprofundamento",
+      "order": 19,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "m1-seq",
+      "subjectId": "matematica",
+      "title": "Sequências: PA e PG",
+      "slug": "sequencias-pa-pg",
+      "unit": "1º médio — Aprofundamento",
+      "order": 20,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    }
+  ]
+}

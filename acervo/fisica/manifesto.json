@@ -1,0 +1,23 @@
+{
+  "subjectId": "fisica",
+  "generatedAt": "2026-07-10",
+  "counts": {
+    "topics": 7,
+    "files8": 0,
+    "files9": 0,
+    "files1": 7
+  },
+  "folders": {
+    "conteudos/8ano": [],
+    "conteudos/9ano": [],
+    "conteudos/1medio": [
+      "grandezas-e-unidades.json",
+      "cinematica.json",
+      "vetores.json",
+      "leis-de-newton.json",
+      "trabalho-e-energia.json",
+      "impulso-e-quantidade-de-movimento.json",
+      "ondas-intro.json"
+    ]
+  }
+}

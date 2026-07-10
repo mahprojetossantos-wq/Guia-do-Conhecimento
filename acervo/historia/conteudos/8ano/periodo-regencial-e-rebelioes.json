@@ -1,0 +1,30 @@
+{
+  "id": "content-h8-regencia",
+  "topicId": "h8-regencia",
+  "subjectId": "historia",
+  "slug": "periodo-regencial-e-rebelioes",
+  "title": "Período Regencial e rebeliões",
+  "summary": "1831–1840: instabilidade e revoltas provinciais.",
+  "body": "## O que foi a Regência?\n\nCom a abdicação de Pedro I, o Brasil foi governado por regentes até a maioridade de Pedro II (1840). Foi um período instável.\n\n## Revoltas\n\nCabanagem, Farroupilha, Sabinada, Balaiada, entre outras — cada uma com causas locais (autonomia, condições sociais, conflitos políticos). Mostram a fragilidade do poder central e a diversidade regional do Império.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI16"
+  ],
+  "unit": "O Brasil no século XIX",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Período Regencial e rebeliões\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Período Regencial (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Per%C3%ADodo_regencial",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "content-c9-evolucao",
+  "topicId": "c9-evolucao",
+  "subjectId": "ciencias",
+  "slug": "evolucao-e-diversidade",
+  "title": "Evolução e diversidade",
+  "summary": "Seleção natural e biodiversidade.",
+  "body": "## Evolução\n\nPopulações mudam ao longo do tempo. Seleção natural. Diversidade biológica e extinções.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [],
+  "unit": "9º ano — Corpo, genética e Terra",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Evolução e diversidade\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Evolução (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Evolu%C3%A7%C3%A3o",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

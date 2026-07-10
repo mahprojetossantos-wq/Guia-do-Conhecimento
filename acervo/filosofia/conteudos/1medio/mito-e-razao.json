@@ -1,0 +1,28 @@
+{
+  "id": "content-fil1-mitos",
+  "topicId": "fil1-mitos",
+  "subjectId": "filosofia",
+  "slug": "mito-e-razao",
+  "title": "Mito e razão",
+  "summary": "Do mito à filosofia na Grécia.",
+  "body": "## Passagem\n\nExplicações míticas × logos. Pré-socráticos buscam princípios (arché) da natureza.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Mito e razão\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Pré-socráticos (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Pr%C3%A9-socr%C3%A1ticos",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

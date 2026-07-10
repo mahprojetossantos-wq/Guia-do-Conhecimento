@@ -1,0 +1,28 @@
+{
+  "id": "content-g8-agro",
+  "topicId": "g8-agro",
+  "subjectId": "geografia",
+  "slug": "agricultura-e-agronegocio",
+  "title": "Agricultura e agronegócio",
+  "summary": "Campo, commodities e conflitos de terra.",
+  "body": "## Campo brasileiro\n\nAgricultura familiar × agronegócio. Exportação de commodities, uso de tecnologia e questões ambientais/sociais.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [],
+  "unit": "8º ano — Natureza e sociedade",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Agricultura e agronegócio\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Agronegócio (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Agroneg%C3%B3cio",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "content-h8-revolucoes-inglesas",
+  "topicId": "h8-revolucoes-inglesas",
+  "subjectId": "historia",
+  "slug": "revolucoes-inglesas-e-liberalismo",
+  "title": "Revoluções inglesas e liberalismo",
+  "summary": "Como a Inglaterra limitou o poder do rei e fortaleceu o Parlamento.",
+  "body": "## Contexto\n\nNo século XVII, a Inglaterra viveu conflitos entre a monarquia e o Parlamento. A disputa envolvia impostos, religião e quem mandava de verdade no reino.\n\n## Marcos\n\n- **Revolução Puritana / Guerra Civil** (1640s): confronto entre partidários do rei e do Parlamento; execução de Carlos I; período de República sob Cromwell.\n- **Restauração** da monarquia e novas tensões.\n- **Revolução Gloriosa** (1688–1689): deposição de Jaime II; chegada de Guilherme de Orange e Maria; **Bill of Rights** (Declaração de Direitos), que reforçou o poder do Parlamento e limitou o rei.\n\n## Resultado\n\nA Inglaterra caminhou para uma monarquia **constitucional**, com direitos e limites ao soberano. Isso virou referência para o liberalismo político moderno.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI02"
+  ],
+  "unit": "O mundo contemporâneo: o Antigo Regime em crise",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Revoluções inglesas e liberalismo\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Revolução Gloriosa (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_Gloriosa",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

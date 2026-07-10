@@ -1,0 +1,31 @@
+{
+  "id": "content-h9-globalizacao",
+  "topicId": "h9-globalizacao",
+  "subjectId": "historia",
+  "slug": "globalizacao",
+  "title": "Fim da Guerra Fria e globalização",
+  "summary": "Mundo multipolar, mercados e tecnologias.",
+  "body": "## Depois de 1989–1991\n\nQueda do Muro de Berlim e fim da URSS mudaram a ordem mundial. A globalização acelerou fluxos de capital, informação e pessoas — com vencedores e excluídos.\n\n## Tecnologia\n\nInternet e mídias digitais transformaram política, cultura e economia. Vale analisar oportunidades e riscos (desinformação, vigilância, desigualdade de acesso).",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09HI32",
+    "EF09HI33"
+  ],
+  "unit": "História recente (mundo)",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Fim da Guerra Fria e globalização\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Globalização (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Globaliza%C3%A7%C3%A3o",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

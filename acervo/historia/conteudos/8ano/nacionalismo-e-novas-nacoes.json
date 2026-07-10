@@ -1,0 +1,30 @@
+{
+  "id": "content-h8-nacionalismo",
+  "topicId": "h8-nacionalismo",
+  "subjectId": "historia",
+  "slug": "nacionalismo-e-novas-nacoes",
+  "title": "Nacionalismo e novas nações europeias",
+  "summary": "Unificações e ideologias no século XIX.",
+  "body": "## Nacionalismo\n\nNo século XIX, o nacionalismo ganhou força na Europa: ideia de que povo e Estado deveriam coincidir. Processos como a unificação italiana e alemã redesenharam o mapa.\n\n## Lado sombrio\n\nIdeologias raciais e o determinismo foram usados para justificar hierarquias entre povos — base ideológica do imperialismo.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI23"
+  ],
+  "unit": "Configurações do mundo no século XIX",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Nacionalismo e novas nações europeias\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Nacionalismo (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Nacionalismo",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "content-h9-resistencia",
+  "topicId": "h9-resistencia",
+  "subjectId": "historia",
+  "slug": "resistencias-a-ditadura",
+  "title": "Resistências à ditadura",
+  "summary": "Movimentos, cultura e oposição ao regime.",
+  "body": "## Formas de resistência\n\nGreves, movimentos estudantis, imprensa alternativa, música, teatro, partidos na clandestinidade, luta armada (em setores) e organização de familiares de perseguidos. A resistência foi plural — não um bloco único.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09HI20"
+  ],
+  "unit": "Brasil após 1946: modernização, ditadura e redemocratização",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Resistências à ditadura\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Resistência à ditadura militar no Brasil (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Resist%C3%AAncia_%C3%A0_ditadura_militar_no_Brasil",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

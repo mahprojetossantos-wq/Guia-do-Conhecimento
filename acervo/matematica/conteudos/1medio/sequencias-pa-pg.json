@@ -1,0 +1,28 @@
+{
+  "id": "content-m1-seq",
+  "topicId": "m1-seq",
+  "subjectId": "matematica",
+  "slug": "sequencias-pa-pg",
+  "title": "Sequências: PA e PG",
+  "summary": "Progressões aritmética e geométrica.",
+  "body": "## PA\n\nDiferença constante. Termo geral: aₙ = a₁ + (n−1)r.\n\n## PG\n\nRazão constante. aₙ = a₁ · qⁿ⁻¹. Soma de PG finita.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Aprofundamento",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Sequências: PA e PG\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Progressão aritmética (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Progress%C3%A3o_aritm%C3%A9tica",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

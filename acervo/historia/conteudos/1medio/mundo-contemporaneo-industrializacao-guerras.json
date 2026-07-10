@@ -1,0 +1,28 @@
+{
+  "id": "content-h1-mundo-contemporaneo",
+  "topicId": "h1-mundo-contemporaneo",
+  "subjectId": "historia",
+  "slug": "mundo-contemporaneo-industrializacao-guerras",
+  "title": "Mundo contemporâneo: industrialização às guerras",
+  "summary": "Linha do tempo do século XIX ao XX para o 1º médio.",
+  "body": "## Roteiro de estudo\n\n1. Revolução Industrial e imperialismo  \n2. 1ª Guerra e Revolução Russa  \n3. Crise de 1929 e totalitarismos  \n4. 2ª Guerra e ONU  \n\nEm cada etapa, pergunte: **quem ganha? quem perde? quais fontes provam isso?**",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º colegial — aprofundamento",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Mundo contemporâneo: industrialização às guerras\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Idade Contemporânea (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Idade_Contempor%C3%A2nea",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

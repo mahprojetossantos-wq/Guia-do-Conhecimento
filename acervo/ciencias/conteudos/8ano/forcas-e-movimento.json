@@ -1,0 +1,28 @@
+{
+  "id": "content-c8-forcas",
+  "topicId": "c8-forcas",
+  "subjectId": "ciencias",
+  "slug": "forcas-e-movimento",
+  "title": "Forças e movimento",
+  "summary": "Introdução à dinâmica.",
+  "body": "## Ideias\n\nForça, velocidade, inércia (visão escolar). Relacione com segurança no trânsito e fenômenos do cotidiano.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [],
+  "unit": "8º ano — Matéria, energia e vida",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Forças e movimento\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Força (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/For%C3%A7a",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

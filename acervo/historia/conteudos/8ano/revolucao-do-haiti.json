@@ -1,0 +1,30 @@
+{
+  "id": "content-h8-haiti",
+  "topicId": "h8-haiti",
+  "subjectId": "historia",
+  "slug": "revolucao-do-haiti",
+  "title": "Revolução do Haiti",
+  "summary": "Única revolução de escravizados que fundou um Estado independente.",
+  "body": "## O que foi?\n\nEm São Domingos (colônia francesa), pessoas escravizadas se rebelaram (a partir de 1791), em meio ao impacto da Revolução Francesa. O processo levou à independência do **Haiti** (1804).\n\n## Por que é singular?\n\nFoi a grande revolução liderada por escravizados que destruiu o sistema escravista local e criou um Estado negro independente. Assustou elites escravistas nas Américas, inclusive no Brasil.\n\n## Legado\n\nSímbolo de liberdade e também alvo de isolamento e punições econômicas por potências escravistas.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI10"
+  ],
+  "unit": "Independências nas Américas",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Revolução do Haiti\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Revolução Haitiana (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_Haitiana",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

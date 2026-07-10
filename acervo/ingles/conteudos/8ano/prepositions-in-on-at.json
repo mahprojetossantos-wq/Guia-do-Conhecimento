@@ -1,0 +1,28 @@
+{
+  "id": "content-i8-prepositions",
+  "topicId": "i8-prepositions",
+  "subjectId": "ingles",
+  "slug": "prepositions-in-on-at",
+  "title": "Prepositions: in, on, at",
+  "summary": "Tempo e lugar.",
+  "body": "## Guia rápido\n\nat (hora/pontos), in (meses/anos/cidades amplas), on (dias/superfícies). Há exceções — pratique em frases.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [],
+  "unit": "8º ano",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Prepositions: in, on, at\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Preposição (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Preposi%C3%A7%C3%A3o",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

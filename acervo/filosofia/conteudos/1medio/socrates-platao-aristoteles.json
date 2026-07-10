@@ -1,0 +1,28 @@
+{
+  "id": "content-fil1-socrates",
+  "topicId": "fil1-socrates",
+  "subjectId": "filosofia",
+  "slug": "socrates-platao-aristoteles",
+  "title": "Sócrates, Platão e Aristóteles",
+  "summary": "Três pilares da filosofia antiga.",
+  "body": "## Três nomes\n\nSócrates: diálogo e exame. Platão: ideias/mundo sensível. Aristóteles: lógica, ética e política mais “terrestres”.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Sócrates, Platão e Aristóteles\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Filosofia antiga (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Filosofia_antiga",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

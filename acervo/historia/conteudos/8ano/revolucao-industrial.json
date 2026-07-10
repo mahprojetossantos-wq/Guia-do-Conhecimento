@@ -1,0 +1,30 @@
+{
+  "id": "content-h8-revolucao-industrial",
+  "topicId": "h8-revolucao-industrial",
+  "subjectId": "historia",
+  "slug": "revolucao-industrial",
+  "title": "Revolução Industrial",
+  "summary": "Máquinas, fábricas, cidades e uma nova forma de produzir.",
+  "body": "## O que foi?\n\nA Revolução Industrial começou na **Inglaterra** no século XVIII e mudou a forma de produzir: do artesanato e manufatura para a **fábrica** com máquinas e energia (carvão, vapor).\n\n## Mudanças principais\n\n- Produção em larga escala e aumento da produtividade\n- Crescimento das cidades industriais\n- Nova classe: **operários** (proletariado) e fortalecimento da burguesia industrial\n- Expansão do comércio mundial e busca por matérias-primas e mercados (ligado depois ao imperialismo)\n\n## Impactos sociais\n\nJornadas longas, trabalho infantil, salários baixos e moradia precária geraram críticas e movimentos operários. Ao mesmo tempo, houve avanço técnico e barateamento de produtos.\n\n## Ligação com o Brasil\n\nO Brasil do século XIX exportava matérias-primas (como café) e importava manufaturados — inserido na divisão internacional do trabalho da era industrial.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI03"
+  ],
+  "unit": "O mundo contemporâneo: o Antigo Regime em crise",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Revolução Industrial\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Revolução Industrial (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_Industrial",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

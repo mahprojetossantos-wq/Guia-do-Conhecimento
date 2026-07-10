@@ -1,0 +1,14 @@
+{
+  "id": "arte",
+  "name": "Arte",
+  "slug": "arte",
+  "order": 13,
+  "levels": [
+    "8ano",
+    "9ano",
+    "1medio"
+  ],
+  "color": "#DB2777",
+  "description": "Linguagens artísticas, história da arte e leitura de obras.",
+  "updatedAt": "2026-07-10"
+}

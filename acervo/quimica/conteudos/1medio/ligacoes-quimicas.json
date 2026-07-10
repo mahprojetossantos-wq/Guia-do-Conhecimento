@@ -1,0 +1,28 @@
+{
+  "id": "content-q1-ligacoes",
+  "topicId": "q1-ligacoes",
+  "subjectId": "quimica",
+  "slug": "ligacoes-quimicas",
+  "title": "Ligações químicas",
+  "summary": "Iônica, covalente e metálica.",
+  "body": "## Ligações\n\nIônica (metal + ametal), covalente (ametais), metálica. Polaridade e geometria influenciam propriedades das substâncias.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Fundamentos",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Ligações químicas\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Ligação química (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Liga%C3%A7%C3%A3o_qu%C3%ADmica",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

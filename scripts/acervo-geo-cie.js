@@ -1,0 +1,152 @@
+const { generateSubject } = require("./acervo-lib");
+
+function t(id, slug, title, levels, summary, body, bncc, wiki) {
+  return { id, slug, title, levels, summary, body, bncc: bncc || [], wiki };
+}
+
+function geografia() {
+  return generateSubject({
+    id: "geografia",
+    name: "Geografia",
+    slug: "geografia",
+    order: 4,
+    levels: ["8ano", "9ano", "1medio"],
+    color: "#059669",
+    description: "Espaço geográfico, natureza, sociedade, Brasil e mundo.",
+    units: [
+      {
+        unit: "8º ano — Natureza e sociedade",
+        items: [
+          t("g8-cartografia", "cartografia-e-orientacao", "Cartografia e orientação", ["8ano"],
+            "Mapas, escalas e coordenadas.",
+            `## Mapas\n\nRepresentações do espaço com escala, legenda e projeção. Escala numérica e gráfica. Coordenadas: latitude e longitude.`,
+            [], ["Cartografia", "https://pt.wikipedia.org/wiki/Cartografia"]),
+          t("g8-relevo", "relevo-clima-hidrografia", "Relevo, clima e hidrografia", ["8ano"],
+            "Elementos físicos do território.",
+            `## Brasil físico\n\nGrandes unidades de relevo, climas (equatorial, tropical, subtropical etc.) e bacias hidrográficas. Relacione clima × vegetação × ocupação humana.`,
+            [], ["Geografia do Brasil", "https://pt.wikipedia.org/wiki/Geografia_do_Brasil"]),
+          t("g8-biomas", "biomas-brasileiros", "Biomas brasileiros", ["8ano", "9ano"],
+            "Amazônia, Cerrado, Mata Atlântica, Caatinga, Pampa, Pantanal.",
+            `## Biomas\n\nCada bioma tem clima, solo e biodiversidade próprios. Pressões: desmatamento, queimadas, urbanização. Estude características + ameaças.`,
+            [], ["Biomas do Brasil", "https://pt.wikipedia.org/wiki/Lista_de_biomas_do_Brasil"]),
+          t("g8-industria", "industria-e-energia", "Indústria e energia", ["8ano"],
+            "Tipos de indústria e matrizes energéticas.",
+            `## Indústria\n\nExtrativa, de transformação, bens de consumo/capital. Energia: hidrelétrica, térmica, eólica, solar — vantagens e impactos.`,
+            [], ["Indústria", "https://pt.wikipedia.org/wiki/Ind%C3%BAstria"]),
+          t("g8-agro", "agricultura-e-agronegocio", "Agricultura e agronegócio", ["8ano"],
+            "Campo, commodities e conflitos de terra.",
+            `## Campo brasileiro\n\nAgricultura familiar × agronegócio. Exportação de commodities, uso de tecnologia e questões ambientais/sociais.`,
+            [], ["Agronegócio", "https://pt.wikipedia.org/wiki/Agroneg%C3%B3cio"]),
+        ],
+      },
+      {
+        unit: "9º ano — Brasil e globalização",
+        items: [
+          t("g9-populacao", "populacao-e-urbanizacao", "População e urbanização", ["9ano"],
+            "Demografia, migrações e cidades.",
+            `## Temas\n\nCrescimento populacional, pirâmides etárias, êxodo rural, metrópoles, periferias e problemas urbanos (mobilidade, moradia, desigualdade).`,
+            [], ["Urbanização", "https://pt.wikipedia.org/wiki/Urbaniza%C3%A7%C3%A3o"]),
+          t("g9-regioes", "regioes-brasileiras", "Regiões brasileiras", ["9ano"],
+            "Norte, Nordeste, Centro-Oeste, Sudeste, Sul.",
+            `## Regionalização\n\nIBGE: 5 regiões. Compare economia, população e desigualdades. Outras regionalizações (geoeconômica) também existem.`,
+            [], ["Regiões do Brasil", "https://pt.wikipedia.org/wiki/Regi%C3%B5es_do_Brasil"]),
+          t("g9-globalizacao", "globalizacao-e-blocos", "Globalização e blocos econômicos", ["9ano", "1medio"],
+            "Fluxos mundiais e integração regional.",
+            `## Globalização\n\nFluxos de capital, informação e pessoas. Blocos: UE, Mercosul, etc. Vencedores e excluídos do processo.`,
+            [], ["Globalização", "https://pt.wikipedia.org/wiki/Globaliza%C3%A7%C3%A3o"]),
+          t("g9-geopolitica", "geopolitica-mundial", "Geopolítica mundial", ["9ano", "1medio"],
+            "Poder, territórios e conflitos.",
+            `## Ideias\n\nEstados, fronteiras, recursos estratégicos, guerras e organizações internacionais. Leia mapas políticos atualizados.`,
+            [], ["Geopolítica", "https://pt.wikipedia.org/wiki/Geopol%C3%ADtica"]),
+          t("g9-ambiente", "questoes-ambientais", "Questões ambientais", ["9ano", "1medio"],
+            "Mudanças climáticas, água e sustentabilidade.",
+            `## Pautas\n\nAquecimento global, poluição, escassez hídrica, ODS. Relacione consumo, produção e justiça ambiental.`,
+            [], ["Mudança do clima", "https://pt.wikipedia.org/wiki/Aquecimento_global"]),
+        ],
+      },
+      {
+        unit: "1º médio — Aprofundamento",
+        items: [
+          t("g1-espaco", "espaco-geografico", "Espaço geográfico", ["1medio"],
+            "Conceito central da Geografia.",
+            `## Conceito\n\nEspaço geográfico = natureza transformada pela sociedade ao longo do tempo. Categorias: paisagem, território, lugar, região.`,
+            [], ["Espaço geográfico", "https://pt.wikipedia.org/wiki/Espa%C3%A7o_geogr%C3%A1fico"]),
+          t("g1-cartografia-critica", "leitura-critica-de-mapas", "Leitura crítica de mapas", ["1medio"],
+            "Mapas não são neutros.",
+            `## Atenção\n\nProjeções distorcem áreas. Escolha de cores e dados comunica intenções. Sempre pergunte: quem fez? com qual objetivo?`,
+            [], ["Projeção cartográfica", "https://pt.wikipedia.org/wiki/Proje%C3%A7%C3%A3o_cartogr%C3%A1fica"]),
+        ],
+      },
+    ],
+  });
+}
+
+function ciencias() {
+  return generateSubject({
+    id: "ciencias",
+    name: "Ciências",
+    slug: "ciencias",
+    order: 5,
+    levels: ["8ano", "9ano"],
+    color: "#7C3AED",
+    description: "Ciências da Natureza no 8º e 9º (antes da divisão Bio/Física/Química).",
+    units: [
+      {
+        unit: "8º ano — Matéria, energia e vida",
+        items: [
+          t("c8-materia", "materia-e-suas-propriedades", "Matéria e suas propriedades", ["8ano"],
+            "Estados físicos, mudanças e misturas.",
+            `## Matéria\n\nTudo que tem massa e ocupa lugar. Estados e mudanças (fusão, ebulição…). Substâncias e misturas; métodos de separação.`,
+            [], ["Matéria", "https://pt.wikipedia.org/wiki/Mat%C3%A9ria"]),
+          t("c8-atomo", "atomo-e-tabela-periodica-intro", "Átomo e tabela periódica (intro)", ["8ano"],
+            "Modelo atômico simples e organização dos elementos.",
+            `## Átomo\n\nPrótons, nêutrons, elétrons. Número atômico. A tabela periódica organiza elementos por propriedades — base da Química do médio.`,
+            [], ["Átomo", "https://pt.wikipedia.org/wiki/%C3%81tomo"]),
+          t("c8-forcas", "forcas-e-movimento", "Forças e movimento", ["8ano"],
+            "Introdução à dinâmica.",
+            `## Ideias\n\nForça, velocidade, inércia (visão escolar). Relacione com segurança no trânsito e fenômenos do cotidiano.`,
+            [], ["Força", "https://pt.wikipedia.org/wiki/For%C3%A7a"]),
+          t("c8-energia", "formas-de-energia", "Formas de energia", ["8ano"],
+            "Cinética, potencial, térmica, elétrica…",
+            `## Conservação\n\nEnergia se transforma. Fontes renováveis e não renováveis. Eficiência e impactos ambientais.`,
+            [], ["Energia", "https://pt.wikipedia.org/wiki/Energia"]),
+          t("c8-ecologia", "ecologia-basica", "Ecologia básica", ["8ano"],
+            "Cadeias alimentares e ecossistemas.",
+            `## Conceitos\n\nProdutores, consumidores, decompositores. Fluxo de energia e ciclos da matéria. Desequilíbrios causados pelo ser humano.`,
+            [], ["Ecologia", "https://pt.wikipedia.org/wiki/Ecologia"]),
+        ],
+      },
+      {
+        unit: "9º ano — Corpo, genética e Terra",
+        items: [
+          t("c9-celula", "celula-e-microscopia", "Célula e microscopia", ["9ano"],
+            "Unidade básica da vida.",
+            `## Célula\n\nProcarionte × eucarionte; animal × vegetal. Organelas principais (núcleo, mitocôndria, cloroplasto).`,
+            [], ["Célula", "https://pt.wikipedia.org/wiki/C%C3%A9lula"]),
+          t("c9-genetica", "genetica-basica", "Genética básica", ["9ano"],
+            "DNA, genes e hereditariedade (intro).",
+            `## Ideias\n\nDNA carrega informação genética. Mendel: dominância e segregação (visão escolar). Ética em biotecnologia.`,
+            [], ["Genética", "https://pt.wikipedia.org/wiki/Gen%C3%A9tica"]),
+          t("c9-evolucao", "evolucao-e-diversidade", "Evolução e diversidade", ["9ano"],
+            "Seleção natural e biodiversidade.",
+            `## Evolução\n\nPopulações mudam ao longo do tempo. Seleção natural. Diversidade biológica e extinções.`,
+            [], ["Evolução", "https://pt.wikipedia.org/wiki/Evolu%C3%A7%C3%A3o"]),
+          t("c9-saude", "saude-e-sexualidade", "Saúde, prevenção e sexualidade", ["9ano"],
+            "IST, contracepção e saúde pública (visão escolar).",
+            `## Saúde\n\nPrevenção, vacinas, hábitos. Educação sexual com base científica e respeito. Busque fontes confiáveis (Ministério da Saúde).`,
+            [], ["Saúde", "https://pt.wikipedia.org/wiki/Sa%C3%BAde"]),
+          t("c9-terra", "estrutura-da-terra-e-atmosfera", "Estrutura da Terra e atmosfera", ["9ano"],
+            "Camadas da Terra, vulcões, clima.",
+            `## Terra\n\nCrosta, manto, núcleo. Placas tectônicas. Atmosfera e fenômenos climáticos.`,
+            [], ["Estrutura interna da Terra", "https://pt.wikipedia.org/wiki/Estrutura_interna_da_Terra"]),
+          t("c9-quimica", "reacoes-quimicas-intro", "Reações químicas (intro)", ["9ano"],
+            "Conservação da massa e tipos de reação.",
+            `## Reação\n\nReagentes → produtos. Evidências: gás, precipitação, mudança de cor/temperatura. Lei de Lavoisier (visão escolar).`,
+            [], ["Reação química", "https://pt.wikipedia.org/wiki/Rea%C3%A7%C3%A3o_qu%C3%ADmica"]),
+        ],
+      },
+    ],
+  });
+}
+
+module.exports = { geografia, ciencias };

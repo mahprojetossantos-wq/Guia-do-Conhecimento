@@ -1,0 +1,30 @@
+{
+  "id": "content-m9-produtos",
+  "topicId": "m9-produtos",
+  "subjectId": "matematica",
+  "slug": "produtos-notaveis-fatoracao",
+  "title": "Produtos notáveis e fatoração",
+  "summary": "(a+b)², diferença de quadrados e fatoração.",
+  "body": "## Produtos notáveis\n\n(a±b)² = a² ± 2ab + b²; (a+b)(a−b) = a² − b².\n\n## Fatoração\n\nColocar em evidência, trinômio quadrado perfeito, diferença de quadrados — prepara equações do 2º grau.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09MA09"
+  ],
+  "unit": "9º ano — Álgebra e funções",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Produtos notáveis e fatoração\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Produto notável (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Produto_not%C3%A1vel",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

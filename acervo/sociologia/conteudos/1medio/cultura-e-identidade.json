@@ -1,0 +1,28 @@
+{
+  "id": "content-s1-cultura",
+  "topicId": "s1-cultura",
+  "subjectId": "sociologia",
+  "slug": "cultura-e-identidade",
+  "title": "Cultura e identidade",
+  "summary": "Valores, símbolos e diversidade.",
+  "body": "## Cultura\n\nNão é só “arte erudita”: é modo de vida. Identidades são históricas e plurais. Combata etnocentrismo.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Cultura e identidade\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Cultura (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Cultura",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

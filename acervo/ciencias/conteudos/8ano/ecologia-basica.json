@@ -1,0 +1,28 @@
+{
+  "id": "content-c8-ecologia",
+  "topicId": "c8-ecologia",
+  "subjectId": "ciencias",
+  "slug": "ecologia-basica",
+  "title": "Ecologia básica",
+  "summary": "Cadeias alimentares e ecossistemas.",
+  "body": "## Conceitos\n\nProdutores, consumidores, decompositores. Fluxo de energia e ciclos da matéria. Desequilíbrios causados pelo ser humano.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [],
+  "unit": "8º ano — Matéria, energia e vida",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Ecologia básica\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Ecologia (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Ecologia",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

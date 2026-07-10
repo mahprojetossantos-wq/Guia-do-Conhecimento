@@ -1,0 +1,28 @@
+{
+  "id": "content-q1-tabela",
+  "topicId": "q1-tabela",
+  "subjectId": "quimica",
+  "slug": "tabela-periodica",
+  "title": "Tabela periódica",
+  "summary": "Grupos, períodos e propriedades periódicas.",
+  "body": "## Organização\n\nNúmero atômico crescente. Famílias (alcalinos, halogênios, gases nobres…). Raio, eletronegatividade e reatividade variam na tabela.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Fundamentos",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Tabela periódica\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Tabela periódica (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Tabela_peri%C3%B3dica",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

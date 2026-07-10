@@ -1,0 +1,31 @@
+{
+  "id": "content-h9-proclamacao",
+  "topicId": "h9-proclamacao",
+  "subjectId": "historia",
+  "slug": "proclamacao-da-republica",
+  "title": "Proclamação da República e primeiros anos",
+  "summary": "1889: fim da monarquia e início da República no Brasil.",
+  "body": "## 15 de novembro de 1889\n\nUm golpe militar depôs D. Pedro II e proclamou a República. Marechal Deodoro da Fonseca tornou-se o primeiro presidente.\n\n## Por que a monarquia caiu?\n\nDesgaste com elites (fazendeiros após a abolição), fortalecimento do Exército, propaganda republicana e isolamento do imperador ajudam a explicar o fim do Império.\n\n## Primeiros anos\n\nConstituição de 1891, federalismo, tensões políticas e o início da chamada **República Oligárquica** (política do café com leite, coronelismo). A República não nasceu democrática para a maioria da população.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09HI01",
+    "EF09HI02"
+  ],
+  "unit": "Nascimento da República e Brasil até meados do século XX",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Proclamação da República e primeiros anos\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Proclamação da República do Brasil (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_do_Brasil",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

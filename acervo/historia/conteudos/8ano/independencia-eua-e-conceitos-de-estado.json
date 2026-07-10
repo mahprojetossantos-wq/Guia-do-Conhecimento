@@ -1,0 +1,30 @@
+{
+  "id": "content-h8-eua-conceitos",
+  "topicId": "h8-eua-conceitos",
+  "subjectId": "historia",
+  "slug": "independencia-eua-e-conceitos-de-estado",
+  "title": "Independência dos EUA e conceitos de Estado",
+  "summary": "Estado, nação, território, governo e país no exemplo norte-americano.",
+  "body": "## Independência dos Estados Unidos (1776)\n\nAs Treze Colônias romperam com a Inglaterra após conflitos sobre impostos e representação política (“sem representação não há tributação”). A Declaração de Independência e, depois, a Constituição organizaram uma república federativa.\n\n## Conceitos úteis\n\n- **Estado**: organização política com soberania, leis e instituições\n- **Nação**: comunidade que se reconhece por laços culturais, históricos ou políticos\n- **Território**: espaço sob jurisdição do Estado\n- **Governo**: quem exerce o poder no dia a dia\n- **País**: uso corrente para o conjunto Estado + território + população\n\nEsses conceitos ajudam a comparar independências e conflitos nas Américas.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI06"
+  ],
+  "unit": "Independências nas Américas",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Independência dos EUA e conceitos de Estado\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Independência dos Estados Unidos (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Independ%C3%AAncia_dos_Estados_Unidos",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

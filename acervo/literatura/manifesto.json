@@ -1,0 +1,23 @@
+{
+  "subjectId": "literatura",
+  "generatedAt": "2026-07-10",
+  "counts": {
+    "topics": 6,
+    "files8": 0,
+    "files9": 1,
+    "files1": 5
+  },
+  "folders": {
+    "conteudos/8ano": [],
+    "conteudos/9ano": [
+      "generos-literarios.json"
+    ],
+    "conteudos/1medio": [
+      "das-origens-ao-classicismo.json",
+      "barroco.json",
+      "arcadismo.json",
+      "romantismo-brasileiro.json",
+      "realismo-e-naturalismo.json"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "content-h8-conjuracoes",
+  "topicId": "h8-conjuracoes",
+  "subjectId": "historia",
+  "slug": "conjuracoes-mineira-e-baiana",
+  "title": "Conjurações mineira e baiana",
+  "summary": "Revoltas na América portuguesa influenciadas por ideias liberais.",
+  "body": "## Conjuração Mineira (1789)\n\nEm Minas Gerais, elites locais reagiram à cobrança da **derrama** e a tensões com a Coroa. Ideias de autonomia e influência iluminista circularam entre inconfidentes. A repressão foi dura; Tiradentes tornou-se símbolo posterior da luta pela independência.\n\n## Conjuração Baiana (1798)\n\nTambém chamada Revolta dos Alfaiates: participação mais popular (artesãos, soldados, pessoas escravizadas e libertas). Exigências de igualdade, fim de privilégios e críticas à escravidão. Foi reprimida com severidade.\n\n## Importância\n\nMostram que, antes de 1822, já havia contestação à ordem colonial, com perfis sociais diferentes em cada movimento.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI05"
+  ],
+  "unit": "O mundo contemporâneo: o Antigo Regime em crise",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Conjurações mineira e baiana\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Inconfidência Mineira (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Inconfid%C3%AAncia_Mineira",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

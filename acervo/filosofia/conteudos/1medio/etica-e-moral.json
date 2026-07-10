@@ -1,0 +1,28 @@
+{
+  "id": "content-fil1-etica",
+  "topicId": "fil1-etica",
+  "subjectId": "filosofia",
+  "slug": "etica-e-moral",
+  "title": "Ética e moral",
+  "summary": "Diferença e debates sobre o bem viver.",
+  "body": "## Ética × moral\n\nMoral: costumes/normas. Ética: reflexão sobre essas normas. Autonomia, virtude, dever, consequências — diferentes abordagens.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Ética e moral\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Ética (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/%C3%89tica",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

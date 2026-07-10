@@ -1,0 +1,28 @@
+{
+  "id": "content-fil1-o-que-e",
+  "topicId": "fil1-o-que-e",
+  "subjectId": "filosofia",
+  "slug": "o-que-e-filosofia",
+  "title": "O que é Filosofia?",
+  "summary": "Perguntar, argumentar e conceituar.",
+  "body": "## Filosofia\n\nNão é só opinião: é investigação crítica com argumentos. Diferente de mito e de senso comum, busca justificar crenças.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"O que é Filosofia?\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Filosofia (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Filosofia",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

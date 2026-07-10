@@ -1,0 +1,30 @@
+{
+  "id": "content-h8-iluminismo",
+  "topicId": "h8-iluminismo",
+  "subjectId": "historia",
+  "slug": "iluminismo-e-liberalismo",
+  "title": "Iluminismo e liberalismo",
+  "summary": "Ideias de razão, liberdade e direitos que abalaram o Antigo Regime.",
+  "body": "## O que foi o Iluminismo?\n\nO Iluminismo foi um movimento intelectual dos séculos XVII e XVIII, forte na Europa (especialmente França, Inglaterra e Escócia). Seus pensadores defendiam o uso da **razão**, a crítica ao absolutismo e à intolerância religiosa, e a valorização da ciência e da educação.\n\n## Ideias centrais\n\n- **Razão** como guia para entender o mundo e organizar a sociedade\n- Crítica ao poder absoluto dos reis e aos privilégios da nobreza e do clero\n- Defesa de **liberdades** (opinião, religião, propriedade) e de leis iguais para todos\n- Confiança no progresso pelo conhecimento\n\nAutores importantes: John Locke, Montesquieu (separação dos poderes), Voltaire, Rousseau, Adam Smith (economia liberal).\n\n## Liberalismo\n\nO liberalismo político nasceu ligado a essas ideias: limitar o poder do Estado, garantir direitos individuais e, em muitos casos, defender a participação política (ainda que, no século XVIII, restrita). O liberalismo econômico defendia menos intervenção do Estado no mercado.\n\n## Por que importa?\n\nEssas ideias influenciaram a Independência dos EUA, a Revolução Francesa e os movimentos de independência nas Américas — inclusive o Brasil.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI01"
+  ],
+  "unit": "O mundo contemporâneo: o Antigo Regime em crise",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Iluminismo e liberalismo\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Iluminismo (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Iluminismo",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

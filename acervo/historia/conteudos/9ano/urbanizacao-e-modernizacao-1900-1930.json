@@ -1,0 +1,30 @@
+{
+  "id": "content-h9-urbanizacao",
+  "topicId": "h9-urbanizacao",
+  "subjectId": "historia",
+  "slug": "urbanizacao-e-modernizacao-1900-1930",
+  "title": "Urbanização e modernização (1900–1930)",
+  "summary": "Cidades, reformas e contradições da modernização.",
+  "body": "## Crescimento urbano\n\nNas primeiras décadas da República, cidades como Rio e São Paulo cresceram. Houve reformas urbanas, saneamento e projetos “modernizadores” — muitas vezes expulsando pobres das áreas centrais.\n\n## Contradições\n\nModernização convivendo com miséria, epidemias, repressão a revoltas (ex.: Revolta da Vacina) e desigualdade regional. Cultura urbana (teatro, imprensa, música) também se transformou.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09HI05"
+  ],
+  "unit": "Nascimento da República e Brasil até meados do século XX",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Urbanização e modernização (1900–1930)\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — República Velha (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Rep%C3%BAblica_Velha",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "content-m1-exponencial",
+  "topicId": "m1-exponencial",
+  "subjectId": "matematica",
+  "slug": "funcao-exponencial-log",
+  "title": "Função exponencial e logaritmo (intro)",
+  "summary": "Crescimento exponencial e log como inversa.",
+  "body": "## Exponencial\n\nf(x) = aˣ (a > 0, a ≠ 1). Crescimento/decrescimento rápido.\n\n## Logaritmo\n\nlog_a b = x ⟺ aˣ = b. Propriedades básicas para equações.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Aprofundamento",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Função exponencial e logaritmo (intro)\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Logaritmo (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Logaritmo",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

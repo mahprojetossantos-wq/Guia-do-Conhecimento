@@ -1,0 +1,30 @@
+{
+  "id": "content-h9-ditadura",
+  "topicId": "h9-ditadura",
+  "subjectId": "historia",
+  "slug": "ditadura-civil-militar",
+  "title": "Ditadura civil-militar",
+  "summary": "1964–1985: golpe, AI-5, repressão e memória.",
+  "body": "## O golpe de 1964\n\nMilitares e setores civis depuseram Jango. Seguiu-se uma ditadura com Atos Institucionais, censura, prisões, tortura e exílio.\n\n## AI-5 (1968)\n\nMarco de endurecimento: fechamento de direitos, repressão intensa.\n\n## Memória e justiça\n\nEstudamos o período também para discutir violação de direitos humanos, memória e responsabilidade — temas vivos na democracia.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09HI19"
+  ],
+  "unit": "Brasil após 1946: modernização, ditadura e redemocratização",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Ditadura civil-militar\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Ditadura militar brasileira (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Ditadura_militar_brasileira",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

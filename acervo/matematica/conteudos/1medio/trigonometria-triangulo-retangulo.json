@@ -1,0 +1,28 @@
+{
+  "id": "content-m1-trig",
+  "topicId": "m1-trig",
+  "subjectId": "matematica",
+  "slug": "trigonometria-triangulo-retangulo",
+  "title": "Trigonometria no triângulo retângulo",
+  "summary": "Seno, cosseno e tangente.",
+  "body": "## Razões\n\nsen = oposto/hipotenusa; cos = adjacente/hipotenusa; tg = oposto/adjacente. Ângulos notáveis: 30°, 45°, 60°.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Aprofundamento",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Trigonometria no triângulo retângulo\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Trigonometria (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Trigonometria",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

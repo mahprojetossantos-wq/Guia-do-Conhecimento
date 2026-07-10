@@ -1,0 +1,23 @@
+{
+  "subjectId": "arte",
+  "generatedAt": "2026-07-10",
+  "counts": {
+    "topics": 5,
+    "files8": 2,
+    "files9": 2,
+    "files1": 1
+  },
+  "folders": {
+    "conteudos/8ano": [
+      "elementos-da-linguagem-visual.json",
+      "musica-ritmo-e-melodia.json"
+    ],
+    "conteudos/9ano": [
+      "teatro-e-performance.json",
+      "movimentos-artisticos-intro.json"
+    ],
+    "conteudos/1medio": [
+      "leitura-de-obra.json"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "content-s1-poder",
+  "topicId": "s1-poder",
+  "subjectId": "sociologia",
+  "slug": "poder-estado-e-cidadania",
+  "title": "Poder, Estado e cidadania",
+  "summary": "Instituições e participação.",
+  "body": "## Política na vida social\n\nEstado, direitos, movimentos sociais e cidadania. Relacione com a Constituição de 1988.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Poder, Estado e cidadania\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Cidadania (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Cidadania",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "content-p1-literariedade",
+  "topicId": "p1-literariedade",
+  "subjectId": "lingua-portuguesa",
+  "slug": "literariedade-e-leitura",
+  "title": "Literariedade e leitura literária",
+  "summary": "O que torna um texto literário.",
+  "body": "## Leitura literária\n\nAtenção à linguagem, ambiguidade, estética e contexto histórico. Diferente da leitura só informativa.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Aprofundamento",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Literariedade e leitura literária\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Literatura (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Literatura",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

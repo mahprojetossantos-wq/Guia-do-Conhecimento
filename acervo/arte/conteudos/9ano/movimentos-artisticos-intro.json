@@ -1,0 +1,29 @@
+{
+  "id": "content-a9-movimentos",
+  "topicId": "a9-movimentos",
+  "subjectId": "arte",
+  "slug": "movimentos-artisticos-intro",
+  "title": "Movimentos artísticos (intro)",
+  "summary": "Renascimento, modernismo, arte contemporânea (visão rápida).",
+  "body": "## Linha do tempo\n\nNão memorize só nomes: ligue estilo × contexto histórico. No Brasil, modernismo (1922) é marco escolar clássico.",
+  "levels": [
+    "9ano",
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "Fundamentos",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Movimentos artísticos (intro)\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — História da arte (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Hist%C3%B3ria_da_arte",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

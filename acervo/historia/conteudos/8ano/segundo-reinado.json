@@ -1,0 +1,31 @@
+{
+  "id": "content-h8-segundo-reinado",
+  "topicId": "h8-segundo-reinado",
+  "subjectId": "historia",
+  "slug": "segundo-reinado",
+  "title": "Segundo Reinado: política e economia",
+  "summary": "Café, política do Império e transformações do século XIX.",
+  "body": "## Política\n\nO Segundo Reinado (1840–1889) buscou estabilidade após a Regência. Houve rodízio de partidos (Conservador e Liberal), centralização e, ao longo do tempo, desgaste da monarquia.\n\n## Economia\n\nO **café** tornou-se o grande produto de exportação. A mão de obra escravizada foi central por décadas; depois cresceu a imigração (especialmente no Sudeste).\n\n## Sociedade\n\nDesigualdade, escravidão, urbanização gradual e debates sobre modernização marcaram o período — até a Proclamação da República (1889).",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI15",
+    "EF08HI17"
+  ],
+  "unit": "O Brasil no século XIX",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Segundo Reinado: política e economia\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Segundo Reinado (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Segundo_Reinado",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

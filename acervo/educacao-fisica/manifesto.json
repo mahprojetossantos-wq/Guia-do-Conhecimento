@@ -1,0 +1,23 @@
+{
+  "subjectId": "educacao-fisica",
+  "generatedAt": "2026-07-10",
+  "counts": {
+    "topics": 5,
+    "files8": 1,
+    "files9": 3,
+    "files1": 1
+  },
+  "folders": {
+    "conteudos/8ano": [
+      "jogos-e-brincadeiras.json"
+    ],
+    "conteudos/9ano": [
+      "esportes-coletivos.json",
+      "atividade-fisica-e-saude.json",
+      "corpo-midia-e-padroes.json"
+    ],
+    "conteudos/1medio": [
+      "lutas-e-praticas-corporais.json"
+    ]
+  }
+}

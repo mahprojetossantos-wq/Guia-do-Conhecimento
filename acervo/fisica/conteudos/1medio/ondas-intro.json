@@ -1,0 +1,28 @@
+{
+  "id": "content-f1-ondas",
+  "topicId": "f1-ondas",
+  "subjectId": "fisica",
+  "slug": "ondas-intro",
+  "title": "Ondas (introdução)",
+  "summary": "Frequência, período, comprimento de onda.",
+  "body": "## Ondas\n\nv = λ·f. Mecânicas × eletromagnéticas. Som e luz (visão introdutória).",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Mecânica",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Ondas (introdução)\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Onda (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Onda",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

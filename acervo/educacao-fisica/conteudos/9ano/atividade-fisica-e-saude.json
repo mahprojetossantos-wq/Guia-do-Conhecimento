@@ -1,0 +1,29 @@
+{
+  "id": "content-ef9-saude",
+  "topicId": "ef9-saude",
+  "subjectId": "educacao-fisica",
+  "slug": "atividade-fisica-e-saude",
+  "title": "Atividade física e saúde",
+  "summary": "Hábitos, sono e bem-estar.",
+  "body": "## Saúde\n\nAtividade regular, alimentação e descanso. Evite milagres e compare fontes confiáveis.",
+  "levels": [
+    "9ano",
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "Cultura corporal e saúde",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Atividade física e saúde\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Exercício físico (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Exerc%C3%ADcio_f%C3%ADsico",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

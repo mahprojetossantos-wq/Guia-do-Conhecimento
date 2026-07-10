@@ -1,0 +1,29 @@
+{
+  "id": "content-ef9-corpo",
+  "topicId": "ef9-corpo",
+  "subjectId": "educacao-fisica",
+  "slug": "corpo-midia-e-padroes",
+  "title": "Corpo, mídia e padrões",
+  "summary": "Imagem corporal e pressão estética.",
+  "body": "## Reflexão\n\nPadrões de corpo mudam na história e na mídia. Saúde ≠ estética imposta. Respeito à diversidade corporal.",
+  "levels": [
+    "9ano",
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "Cultura corporal e saúde",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Corpo, mídia e padrões\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Imagem corporal (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Imagem_corporal",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

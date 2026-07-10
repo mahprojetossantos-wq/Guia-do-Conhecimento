@@ -1,0 +1,30 @@
+{
+  "id": "content-h8-tutela-escravidao",
+  "topicId": "h8-tutela-escravidao",
+  "subjectId": "historia",
+  "slug": "indigenas-negros-e-tutela",
+  "title": "Indígenas, negros e tutela no fim do período colonial",
+  "summary": "Exclusão, tutela e legados de preconceito após a ordem colonial.",
+  "body": "## Tutela e exclusão\n\nNo fim do período colonial e no Império, indígenas frequentemente foram tratados sob lógica de **tutela** (como “incapazes” de plena autonomia perante o Estado). Pessoas negras escravizadas eram propriedade legal; libertos enfrentavam barreiras.\n\n## Permanências\n\nEstereótipos, racismo e violências não acabaram com a independência. Entender a tutela e a escravidão ajuda a explicar desigualdades que atravessam o século XIX e chegam ao Brasil atual.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI14"
+  ],
+  "unit": "Independências nas Américas",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Indígenas, negros e tutela no fim do período colonial\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Escravidão no Brasil (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Escravid%C3%A3o_no_Brasil",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

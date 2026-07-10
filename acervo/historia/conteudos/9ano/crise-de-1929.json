@@ -1,0 +1,30 @@
+{
+  "id": "content-h9-crise-1929",
+  "topicId": "h9-crise-1929",
+  "subjectId": "historia",
+  "slug": "crise-de-1929",
+  "title": "Crise capitalista de 1929",
+  "summary": "Quebra da Bolsa e Grande Depressão.",
+  "body": "## O crash\n\nEm 1929, a Bolsa de Nova York quebrou. Seguiu-se a Grande Depressão: desemprego, falências e contração do comércio mundial.\n\n## Impactos\n\nNo Brasil, a crise do café e o contexto político ajudaram a enfraquecer a República Oligárquica e abriram caminho para 1930. No mundo, alimentou radicalizações políticas.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09HI12"
+  ],
+  "unit": "Totalitarismos e conflitos mundiais",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Crise capitalista de 1929\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Grande Depressão (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Grande_Depress%C3%A3o",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

@@ -1,0 +1,68 @@
+{
+  "subjectId": "arte",
+  "generatedAt": "2026-07-10",
+  "totalTopics": 5,
+  "topics": [
+    {
+      "id": "a8-elementos",
+      "subjectId": "arte",
+      "title": "Elementos da linguagem visual",
+      "slug": "elementos-da-linguagem-visual",
+      "unit": "Fundamentos",
+      "order": 1,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "a8-musica",
+      "subjectId": "arte",
+      "title": "Música: ritmo e melodia",
+      "slug": "musica-ritmo-e-melodia",
+      "unit": "Fundamentos",
+      "order": 2,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "a9-teatro",
+      "subjectId": "arte",
+      "title": "Teatro e performance",
+      "slug": "teatro-e-performance",
+      "unit": "Fundamentos",
+      "order": 3,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "a9-movimentos",
+      "subjectId": "arte",
+      "title": "Movimentos artísticos (intro)",
+      "slug": "movimentos-artisticos-intro",
+      "unit": "Fundamentos",
+      "order": 4,
+      "levels": [
+        "9ano",
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "a1-leitura",
+      "subjectId": "arte",
+      "title": "Leitura de obra de arte",
+      "slug": "leitura-de-obra",
+      "unit": "Fundamentos",
+      "order": 5,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    }
+  ]
+}

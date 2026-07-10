@@ -1,0 +1,31 @@
+{
+  "id": "content-h8-brasil-1808-1822",
+  "topicId": "h8-brasil-1808-1822",
+  "subjectId": "historia",
+  "slug": "brasil-da-corte-a-independencia",
+  "title": "Brasil: da Corte (1808) à Independência (1822)",
+  "summary": "Vinda da família real, Reino Unido e ruptura com Lisboa.",
+  "body": "## 1808 — A Corte no Rio\n\nCom a invasão francesa a Portugal, a família real veio para o Brasil. O Rio virou sede do império português. Abriram-se portos, criaram-se instituições e cresceu o peso político do Brasil.\n\n## Do Reino Unido à Independência\n\nEm 1815 o Brasil foi elevado a Reino Unido a Portugal. Após a Revolução do Porto (1820), pressões para recolonizar geraram conflito. Em **7 de setembro de 1822**, D. Pedro proclamou a Independência.\n\n## Quem participou?\n\nElites políticas e econômicas tiveram papel central. Também houve participação de diferentes grupos sociais nas lutas — a independência não foi um evento único e homogêneo em todo o território.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI12",
+    "EF08HI13"
+  ],
+  "unit": "Independências nas Américas",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Brasil: da Corte (1808) à Independência (1822)\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Independência do Brasil (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Independ%C3%AAncia_do_Brasil",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

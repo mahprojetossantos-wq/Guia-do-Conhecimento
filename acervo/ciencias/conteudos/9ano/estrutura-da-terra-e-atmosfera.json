@@ -1,0 +1,28 @@
+{
+  "id": "content-c9-terra",
+  "topicId": "c9-terra",
+  "subjectId": "ciencias",
+  "slug": "estrutura-da-terra-e-atmosfera",
+  "title": "Estrutura da Terra e atmosfera",
+  "summary": "Camadas da Terra, vulcões, clima.",
+  "body": "## Terra\n\nCrosta, manto, núcleo. Placas tectônicas. Atmosfera e fenômenos climáticos.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [],
+  "unit": "9º ano — Corpo, genética e Terra",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Estrutura da Terra e atmosfera\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Estrutura interna da Terra (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Estrutura_interna_da_Terra",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

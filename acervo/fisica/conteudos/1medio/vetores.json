@@ -1,0 +1,28 @@
+{
+  "id": "content-f1-vetores",
+  "topicId": "f1-vetores",
+  "subjectId": "fisica",
+  "slug": "vetores",
+  "title": "Vetores",
+  "summary": "Grandezas vetoriais e decomposição.",
+  "body": "## Vetor\n\nMódulo, direção e sentido. Soma e decomposição em eixos. Força e velocidade são vetoriais.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Mecânica",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Vetores\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Vetor (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Vetor",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

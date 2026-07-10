@@ -1,0 +1,29 @@
+{
+  "id": "content-p9-redacao",
+  "topicId": "p9-redacao",
+  "subjectId": "lingua-portuguesa",
+  "slug": "producao-de-redacao",
+  "title": "Produção de redação",
+  "summary": "Planejar, escrever e revisar.",
+  "body": "## Passo a passo\n\n1) Ler o tema 2) Definir tese 3) Escolher 2–3 argumentos 4) Escrever 5) Revisar coesão, ortografia e adequação à proposta.",
+  "levels": [
+    "9ano",
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "9º ano — Interpretação e argumentação",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Produção de redação\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Redação (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Reda%C3%A7%C3%A3o",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

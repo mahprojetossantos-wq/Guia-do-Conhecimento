@@ -1,0 +1,28 @@
+{
+  "id": "content-g8-relevo",
+  "topicId": "g8-relevo",
+  "subjectId": "geografia",
+  "slug": "relevo-clima-hidrografia",
+  "title": "Relevo, clima e hidrografia",
+  "summary": "Elementos físicos do território.",
+  "body": "## Brasil físico\n\nGrandes unidades de relevo, climas (equatorial, tropical, subtropical etc.) e bacias hidrográficas. Relacione clima × vegetação × ocupação humana.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [],
+  "unit": "8º ano — Natureza e sociedade",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Relevo, clima e hidrografia\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Geografia do Brasil (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Geografia_do_Brasil",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

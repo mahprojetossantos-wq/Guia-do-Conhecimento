@@ -1,0 +1,28 @@
+{
+  "id": "content-c9-genetica",
+  "topicId": "c9-genetica",
+  "subjectId": "ciencias",
+  "slug": "genetica-basica",
+  "title": "Genética básica",
+  "summary": "DNA, genes e hereditariedade (intro).",
+  "body": "## Ideias\n\nDNA carrega informação genética. Mendel: dominância e segregação (visão escolar). Ética em biotecnologia.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [],
+  "unit": "9º ano — Corpo, genética e Terra",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Genética básica\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Genética (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Gen%C3%A9tica",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

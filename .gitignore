@@ -1,0 +1,23 @@
+# Dependências / build
+node_modules/
+.expo/
+dist/
+build/
+*.log
+
+# Segredos — NUNCA commit
+.env
+.env.local
+.env.*.local
+secrets/
+**/firebase-service-account.json
+**/guia-do-conhecimento-mah-firebase-adminsdk-*.json
+*-firebase-adminsdk-*.json
+npm install firebase.txt
+**/firebase-web-config.txt
+
+# SO / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

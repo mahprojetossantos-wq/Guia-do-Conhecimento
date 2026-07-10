@@ -1,0 +1,91 @@
+{
+  "subjectId": "quimica",
+  "generatedAt": "2026-07-10",
+  "totalTopics": 7,
+  "topics": [
+    {
+      "id": "q1-atomo",
+      "subjectId": "quimica",
+      "title": "Modelos atômicos",
+      "slug": "modelos-atomicos",
+      "unit": "1º médio — Fundamentos",
+      "order": 1,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "q1-tabela",
+      "subjectId": "quimica",
+      "title": "Tabela periódica",
+      "slug": "tabela-periodica",
+      "unit": "1º médio — Fundamentos",
+      "order": 2,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "q1-ligacoes",
+      "subjectId": "quimica",
+      "title": "Ligações químicas",
+      "slug": "ligacoes-quimicas",
+      "unit": "1º médio — Fundamentos",
+      "order": 3,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "q1-funcoes",
+      "subjectId": "quimica",
+      "title": "Funções inorgânicas",
+      "slug": "funcoes-inorganicas",
+      "unit": "1º médio — Fundamentos",
+      "order": 4,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "q1-reacoes",
+      "subjectId": "quimica",
+      "title": "Tipos de reações e balanceamento",
+      "slug": "tipos-de-reacoes",
+      "unit": "1º médio — Fundamentos",
+      "order": 5,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "q1-mol",
+      "subjectId": "quimica",
+      "title": "Mol e massa molar",
+      "slug": "mol-e-massa-molar",
+      "unit": "1º médio — Fundamentos",
+      "order": 6,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "q1-estequio",
+      "subjectId": "quimica",
+      "title": "Estequiometria (intro)",
+      "slug": "estequiometria-intro",
+      "unit": "1º médio — Fundamentos",
+      "order": 7,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    }
+  ]
+}

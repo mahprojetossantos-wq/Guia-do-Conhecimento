@@ -1,0 +1,28 @@
+{
+  "id": "content-p8-periodo",
+  "topicId": "p8-periodo",
+  "subjectId": "lingua-portuguesa",
+  "slug": "periodo-simples-e-composto",
+  "title": "Período simples e composto",
+  "summary": "Oração, sujeito, predicado e coordenação/subordinação (intro).",
+  "body": "## Período simples\n\nUma oração. Identifique sujeito e predicado.\n\n## Período composto\n\nMais de uma oração — coordenadas ou subordinadas. Base para pontuação e clareza.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [],
+  "unit": "8º ano — Língua e texto",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Período simples e composto\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Período (gramática) (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Per%C3%ADodo_(gram%C3%A1tica)",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

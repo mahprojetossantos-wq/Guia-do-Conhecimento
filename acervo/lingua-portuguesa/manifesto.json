@@ -1,0 +1,31 @@
+{
+  "subjectId": "lingua-portuguesa",
+  "generatedAt": "2026-07-10",
+  "counts": {
+    "topics": 13,
+    "files8": 5,
+    "files9": 5,
+    "files1": 3
+  },
+  "folders": {
+    "conteudos/8ano": [
+      "classes-de-palavras.json",
+      "periodo-simples-e-composto.json",
+      "coesao-e-coerencia.json",
+      "generos-textuais.json",
+      "variacao-linguistica.json"
+    ],
+    "conteudos/9ano": [
+      "figuras-de-linguagem.json",
+      "funcoes-da-linguagem.json",
+      "texto-argumentativo.json",
+      "intertextualidade.json",
+      "producao-de-redacao.json"
+    ],
+    "conteudos/1medio": [
+      "literariedade-e-leitura.json",
+      "tipos-de-discurso.json",
+      "semantica-e-ambiguidade.json"
+    ]
+  }
+}

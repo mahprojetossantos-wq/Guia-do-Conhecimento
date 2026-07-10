@@ -1,0 +1,29 @@
+{
+  "subjectId": "ingles",
+  "generatedAt": "2026-07-10",
+  "counts": {
+    "topics": 11,
+    "files8": 4,
+    "files9": 4,
+    "files1": 3
+  },
+  "folders": {
+    "conteudos/8ano": [
+      "simple-present.json",
+      "simple-past.json",
+      "prepositions-in-on-at.json",
+      "vocabulario-escola-e-cotidiano.json"
+    ],
+    "conteudos/9ano": [
+      "present-continuous.json",
+      "will-e-going-to.json",
+      "comparatives-and-superlatives.json",
+      "reading-strategies.json"
+    ],
+    "conteudos/1medio": [
+      "present-perfect-intro.json",
+      "connectors.json",
+      "false-friends.json"
+    ]
+  }
+}

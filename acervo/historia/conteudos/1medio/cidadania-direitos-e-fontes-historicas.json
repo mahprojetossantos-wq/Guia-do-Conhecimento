@@ -1,0 +1,28 @@
+{
+  "id": "content-h1-cidadania-fontes",
+  "topicId": "h1-cidadania-fontes",
+  "subjectId": "historia",
+  "slug": "cidadania-direitos-e-fontes-historicas",
+  "title": "Cidadania, direitos e fontes históricas",
+  "summary": "Como estudar História no ensino médio.",
+  "body": "## Competências do médio\n\nNa BNCC do Ensino Médio (Ciências Humanas), o foco inclui analisar fontes, contextualizar narrativas, discutir poder, trabalho, direitos e cidadania.\n\n## Método rápido\n\n1. Identifique a fonte (quem produziu? quando? para quê?)  \n2. Separe fato e interpretação  \n3. Compare duas versões do mesmo evento  \n4. Relacione passado e presente sem anacronismo simplista",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º colegial — aprofundamento",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Cidadania, direitos e fontes históricas\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Fonte histórica (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Fonte_hist%C3%B3rica",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

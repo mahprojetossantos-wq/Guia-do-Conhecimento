@@ -1,0 +1,28 @@
+{
+  "id": "content-h1-brasil-seculo-xx",
+  "topicId": "h1-brasil-seculo-xx",
+  "subjectId": "historia",
+  "slug": "brasil-no-seculo-xx-roteiro",
+  "title": "Brasil no século XX — roteiro do 1º médio",
+  "summary": "Vargas, democracia de 46, ditadura, Constituição de 1988.",
+  "body": "## Roteiro\n\n- Era Vargas e trabalhismo  \n- 1946–1964  \n- Ditadura civil-militar  \n- Redemocratização e Constituição de 1988  \n\nRelacione sempre com Guerra Fria e América Latina. Os textos detalhados estão também nos tópicos do 9º ano (conteúdos compartilháveis).",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º colegial — aprofundamento",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Brasil no século XX — roteiro do 1º médio\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — História do Brasil (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Hist%C3%B3ria_do_Brasil",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

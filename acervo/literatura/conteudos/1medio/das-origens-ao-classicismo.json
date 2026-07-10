@@ -1,0 +1,28 @@
+{
+  "id": "content-l1-trovadorismo",
+  "topicId": "l1-trovadorismo",
+  "subjectId": "literatura",
+  "slug": "das-origens-ao-classicismo",
+  "title": "Das origens ao Classicismo",
+  "summary": "Trovadorismo, Humanismo, Classicismo (visão BR/PT).",
+  "body": "## Linha do tempo (Portugal)\n\nTrovadorismo → Humanismo → Classicismo (Camões). No Brasil colonial, literatura de informação e barroco depois.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "Fundamentos",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Das origens ao Classicismo\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Literatura portuguesa (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Literatura_portuguesa",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

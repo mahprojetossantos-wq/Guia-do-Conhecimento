@@ -1,0 +1,30 @@
+{
+  "id": "content-m9-funcao",
+  "topicId": "m9-funcao",
+  "subjectId": "matematica",
+  "slug": "funcao-afim",
+  "title": "Função afim",
+  "summary": "f(x) = ax + b e gráfico da reta.",
+  "body": "## Função afim\n\nCoeficiente a: inclinação. b: intercepto em y. Crescente se a > 0.\n\n## Zero da função\n\nOnde o gráfico corta o eixo x.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09MA06"
+  ],
+  "unit": "9º ano — Álgebra e funções",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Função afim\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Função afim (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Fun%C3%A7%C3%A3o_afim",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

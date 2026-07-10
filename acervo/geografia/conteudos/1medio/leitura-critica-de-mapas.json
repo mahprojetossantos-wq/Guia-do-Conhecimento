@@ -1,0 +1,28 @@
+{
+  "id": "content-g1-cartografia-critica",
+  "topicId": "g1-cartografia-critica",
+  "subjectId": "geografia",
+  "slug": "leitura-critica-de-mapas",
+  "title": "Leitura crítica de mapas",
+  "summary": "Mapas não são neutros.",
+  "body": "## Atenção\n\nProjeções distorcem áreas. Escolha de cores e dados comunica intenções. Sempre pergunte: quem fez? com qual objetivo?",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Aprofundamento",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Leitura crítica de mapas\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Projeção cartográfica (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Proje%C3%A7%C3%A3o_cartogr%C3%A1fica",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

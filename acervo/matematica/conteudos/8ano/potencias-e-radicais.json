@@ -1,0 +1,30 @@
+{
+  "id": "content-m8-potencias",
+  "topicId": "m8-potencias",
+  "subjectId": "matematica",
+  "slug": "potencias-e-radicais",
+  "title": "Potências e radicais",
+  "summary": "Propriedades de potências e introdução a raízes.",
+  "body": "## Potências\n\nA potência aⁿ é a multiplicação de a por ele mesmo n vezes. Propriedades: produto de mesma base, quociente, potência de potência.\n\n## Radicais\n\nA raiz quadrada de um número x (não negativo) é o número y ≥ 0 tal que y² = x. Simplificar radicais e operar com eles é base para equações e geometria.\n\n## Dica de estudo\n\nTreine propriedades com exercícios curtos todos os dias.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08MA01"
+  ],
+  "unit": "8º ano — Números e álgebra",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Potências e radicais\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Potenciação (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Potencia%C3%A7%C3%A3o",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

@@ -1,0 +1,91 @@
+{
+  "subjectId": "fisica",
+  "generatedAt": "2026-07-10",
+  "totalTopics": 7,
+  "topics": [
+    {
+      "id": "f1-grandezas",
+      "subjectId": "fisica",
+      "title": "Grandezas e unidades",
+      "slug": "grandezas-e-unidades",
+      "unit": "1º médio — Mecânica",
+      "order": 1,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "f1-cinematica",
+      "subjectId": "fisica",
+      "title": "Cinemática",
+      "slug": "cinematica",
+      "unit": "1º médio — Mecânica",
+      "order": 2,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "f1-vetores",
+      "subjectId": "fisica",
+      "title": "Vetores",
+      "slug": "vetores",
+      "unit": "1º médio — Mecânica",
+      "order": 3,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "f1-newton",
+      "subjectId": "fisica",
+      "title": "Leis de Newton",
+      "slug": "leis-de-newton",
+      "unit": "1º médio — Mecânica",
+      "order": 4,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "f1-trabalho",
+      "subjectId": "fisica",
+      "title": "Trabalho e energia",
+      "slug": "trabalho-e-energia",
+      "unit": "1º médio — Mecânica",
+      "order": 5,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "f1-impulsão",
+      "subjectId": "fisica",
+      "title": "Impulso e quantidade de movimento",
+      "slug": "impulso-e-quantidade-de-movimento",
+      "unit": "1º médio — Mecânica",
+      "order": 6,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "f1-ondas",
+      "subjectId": "fisica",
+      "title": "Ondas (introdução)",
+      "slug": "ondas-intro",
+      "unit": "1º médio — Mecânica",
+      "order": 7,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    }
+  ]
+}

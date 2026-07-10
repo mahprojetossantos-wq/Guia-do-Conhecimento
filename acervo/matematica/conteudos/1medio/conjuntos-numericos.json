@@ -1,0 +1,28 @@
+{
+  "id": "content-m1-conjuntos",
+  "topicId": "m1-conjuntos",
+  "subjectId": "matematica",
+  "slug": "conjuntos-numericos",
+  "title": "Conjuntos numéricos",
+  "summary": "N, Z, Q, I, R e operações.",
+  "body": "## Conjuntos\n\nNaturais, inteiros, racionais, irracionais e reais. Intervalos na reta. Base para funções e inequações.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Aprofundamento",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Conjuntos numéricos\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Conjunto dos números reais (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/N%C3%BAmero_real",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "content-b1-citologia",
+  "topicId": "b1-citologia",
+  "subjectId": "biologia",
+  "slug": "citologia",
+  "title": "Citologia",
+  "summary": "Organelas e fisiologia celular.",
+  "body": "## Célula\n\nMembrana, citoplasma, núcleo. Mitocôndria (respiração), ribossomos (proteínas), retículo, Golgi, lisossomos. Célula vegetal: parede e cloroplastos.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Bases da Biologia",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Citologia\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Citologia (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Citologia",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

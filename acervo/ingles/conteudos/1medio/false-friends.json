@@ -1,0 +1,28 @@
+{
+  "id": "content-i1-false-friends",
+  "topicId": "i1-false-friends",
+  "subjectId": "ingles",
+  "slug": "false-friends",
+  "title": "False friends",
+  "summary": "Palavras que enganam.",
+  "body": "## Exemplos\n\nlibrary ≠ livraria; parents ≠ parentes; pretend ≠ pretender. Monte seu caderno de false friends.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"False friends\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Falso cognato (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Falso_cognato",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

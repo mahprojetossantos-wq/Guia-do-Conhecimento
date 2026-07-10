@@ -1,0 +1,28 @@
+{
+  "id": "content-a9-teatro",
+  "topicId": "a9-teatro",
+  "subjectId": "arte",
+  "slug": "teatro-e-performance",
+  "title": "Teatro e performance",
+  "summary": "Corpo, espaço e narrativa cênica.",
+  "body": "## Cena\n\nAtor, público, espaço. Improviso e leitura dramática. Arte também é experiência coletiva.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [],
+  "unit": "Fundamentos",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Teatro e performance\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Teatro (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Teatro",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

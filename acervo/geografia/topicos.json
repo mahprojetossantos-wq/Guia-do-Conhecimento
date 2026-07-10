@@ -1,0 +1,155 @@
+{
+  "subjectId": "geografia",
+  "generatedAt": "2026-07-10",
+  "totalTopics": 12,
+  "topics": [
+    {
+      "id": "g8-cartografia",
+      "subjectId": "geografia",
+      "title": "Cartografia e orientação",
+      "slug": "cartografia-e-orientacao",
+      "unit": "8º ano — Natureza e sociedade",
+      "order": 1,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "g8-relevo",
+      "subjectId": "geografia",
+      "title": "Relevo, clima e hidrografia",
+      "slug": "relevo-clima-hidrografia",
+      "unit": "8º ano — Natureza e sociedade",
+      "order": 2,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "g8-biomas",
+      "subjectId": "geografia",
+      "title": "Biomas brasileiros",
+      "slug": "biomas-brasileiros",
+      "unit": "8º ano — Natureza e sociedade",
+      "order": 3,
+      "levels": [
+        "8ano",
+        "9ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "g8-industria",
+      "subjectId": "geografia",
+      "title": "Indústria e energia",
+      "slug": "industria-e-energia",
+      "unit": "8º ano — Natureza e sociedade",
+      "order": 4,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "g8-agro",
+      "subjectId": "geografia",
+      "title": "Agricultura e agronegócio",
+      "slug": "agricultura-e-agronegocio",
+      "unit": "8º ano — Natureza e sociedade",
+      "order": 5,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "g9-populacao",
+      "subjectId": "geografia",
+      "title": "População e urbanização",
+      "slug": "populacao-e-urbanizacao",
+      "unit": "9º ano — Brasil e globalização",
+      "order": 6,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "g9-regioes",
+      "subjectId": "geografia",
+      "title": "Regiões brasileiras",
+      "slug": "regioes-brasileiras",
+      "unit": "9º ano — Brasil e globalização",
+      "order": 7,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "g9-globalizacao",
+      "subjectId": "geografia",
+      "title": "Globalização e blocos econômicos",
+      "slug": "globalizacao-e-blocos",
+      "unit": "9º ano — Brasil e globalização",
+      "order": 8,
+      "levels": [
+        "9ano",
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "g9-geopolitica",
+      "subjectId": "geografia",
+      "title": "Geopolítica mundial",
+      "slug": "geopolitica-mundial",
+      "unit": "9º ano — Brasil e globalização",
+      "order": 9,
+      "levels": [
+        "9ano",
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "g9-ambiente",
+      "subjectId": "geografia",
+      "title": "Questões ambientais",
+      "slug": "questoes-ambientais",
+      "unit": "9º ano — Brasil e globalização",
+      "order": 10,
+      "levels": [
+        "9ano",
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "g1-espaco",
+      "subjectId": "geografia",
+      "title": "Espaço geográfico",
+      "slug": "espaco-geografico",
+      "unit": "1º médio — Aprofundamento",
+      "order": 11,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "g1-cartografia-critica",
+      "subjectId": "geografia",
+      "title": "Leitura crítica de mapas",
+      "slug": "leitura-critica-de-mapas",
+      "unit": "1º médio — Aprofundamento",
+      "order": 12,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "content-b1-bioquimica",
+  "topicId": "b1-bioquimica",
+  "subjectId": "biologia",
+  "slug": "bioquimica-basica",
+  "title": "Bioquímica básica",
+  "summary": "Água, carboidratos, lipídios, proteínas e ácidos nucleicos.",
+  "body": "## Moléculas da vida\n\nCarboidratos (energia), lipídios (membranas/energia), proteínas (funções diversas), ácidos nucleicos (informação). Água como solvente.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Bases da Biologia",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Bioquímica básica\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Biomolécula (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Biomol%C3%A9cula",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

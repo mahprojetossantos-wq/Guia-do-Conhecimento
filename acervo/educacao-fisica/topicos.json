@@ -1,0 +1,70 @@
+{
+  "subjectId": "educacao-fisica",
+  "generatedAt": "2026-07-10",
+  "totalTopics": 5,
+  "topics": [
+    {
+      "id": "ef8-jogos",
+      "subjectId": "educacao-fisica",
+      "title": "Jogos e brincadeiras",
+      "slug": "jogos-e-brincadeiras",
+      "unit": "Cultura corporal e saúde",
+      "order": 1,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "ef8-esportes",
+      "subjectId": "educacao-fisica",
+      "title": "Esportes coletivos",
+      "slug": "esportes-coletivos",
+      "unit": "Cultura corporal e saúde",
+      "order": 2,
+      "levels": [
+        "8ano",
+        "9ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "ef9-saude",
+      "subjectId": "educacao-fisica",
+      "title": "Atividade física e saúde",
+      "slug": "atividade-fisica-e-saude",
+      "unit": "Cultura corporal e saúde",
+      "order": 3,
+      "levels": [
+        "9ano",
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "ef9-corpo",
+      "subjectId": "educacao-fisica",
+      "title": "Corpo, mídia e padrões",
+      "slug": "corpo-midia-e-padroes",
+      "unit": "Cultura corporal e saúde",
+      "order": 4,
+      "levels": [
+        "9ano",
+        "1medio"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "ef1-luta",
+      "subjectId": "educacao-fisica",
+      "title": "Lutas e práticas corporais",
+      "slug": "lutas-e-praticas-corporais",
+      "unit": "Cultura corporal e saúde",
+      "order": 5,
+      "levels": [
+        "1medio"
+      ],
+      "bnccCodes": []
+    }
+  ]
+}

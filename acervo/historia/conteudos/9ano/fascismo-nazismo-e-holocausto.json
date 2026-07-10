@@ -1,0 +1,30 @@
+{
+  "id": "content-h9-fascismo-nazismo",
+  "topicId": "h9-fascismo-nazismo",
+  "subjectId": "historia",
+  "slug": "fascismo-nazismo-e-holocausto",
+  "title": "Fascismo, nazismo e Holocausto",
+  "summary": "Totalitarismos na Europa e o genocídio nazista.",
+  "body": "## Fascismo e nazismo\n\nApós a 1ª Guerra e a crise, regimes autoritários subiram na Itália (Mussolini) e na Alemanha (Hitler). Caracterizaram-se por culto ao líder, nacionalismo extremo, repressão e militarismo. O nazismo acrescentou racismo de Estado e antissemitismo genocida.\n\n## Holocausto\n\nO genocídio de judeus e a perseguição a outras vítimas (ciganos, pessoas com deficiência, opositores, LGBTQIA+, entre outros) é um dos crimes mais graves da história. Estudar é também um dever de memória.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09HI13"
+  ],
+  "unit": "Totalitarismos e conflitos mundiais",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Fascismo, nazismo e Holocausto\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Holocausto (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Holocausto",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

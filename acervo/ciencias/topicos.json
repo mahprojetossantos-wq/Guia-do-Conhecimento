@@ -1,0 +1,139 @@
+{
+  "subjectId": "ciencias",
+  "generatedAt": "2026-07-10",
+  "totalTopics": 11,
+  "topics": [
+    {
+      "id": "c8-materia",
+      "subjectId": "ciencias",
+      "title": "Matéria e suas propriedades",
+      "slug": "materia-e-suas-propriedades",
+      "unit": "8º ano — Matéria, energia e vida",
+      "order": 1,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "c8-atomo",
+      "subjectId": "ciencias",
+      "title": "Átomo e tabela periódica (intro)",
+      "slug": "atomo-e-tabela-periodica-intro",
+      "unit": "8º ano — Matéria, energia e vida",
+      "order": 2,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "c8-forcas",
+      "subjectId": "ciencias",
+      "title": "Forças e movimento",
+      "slug": "forcas-e-movimento",
+      "unit": "8º ano — Matéria, energia e vida",
+      "order": 3,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "c8-energia",
+      "subjectId": "ciencias",
+      "title": "Formas de energia",
+      "slug": "formas-de-energia",
+      "unit": "8º ano — Matéria, energia e vida",
+      "order": 4,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "c8-ecologia",
+      "subjectId": "ciencias",
+      "title": "Ecologia básica",
+      "slug": "ecologia-basica",
+      "unit": "8º ano — Matéria, energia e vida",
+      "order": 5,
+      "levels": [
+        "8ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "c9-celula",
+      "subjectId": "ciencias",
+      "title": "Célula e microscopia",
+      "slug": "celula-e-microscopia",
+      "unit": "9º ano — Corpo, genética e Terra",
+      "order": 6,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "c9-genetica",
+      "subjectId": "ciencias",
+      "title": "Genética básica",
+      "slug": "genetica-basica",
+      "unit": "9º ano — Corpo, genética e Terra",
+      "order": 7,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "c9-evolucao",
+      "subjectId": "ciencias",
+      "title": "Evolução e diversidade",
+      "slug": "evolucao-e-diversidade",
+      "unit": "9º ano — Corpo, genética e Terra",
+      "order": 8,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "c9-saude",
+      "subjectId": "ciencias",
+      "title": "Saúde, prevenção e sexualidade",
+      "slug": "saude-e-sexualidade",
+      "unit": "9º ano — Corpo, genética e Terra",
+      "order": 9,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "c9-terra",
+      "subjectId": "ciencias",
+      "title": "Estrutura da Terra e atmosfera",
+      "slug": "estrutura-da-terra-e-atmosfera",
+      "unit": "9º ano — Corpo, genética e Terra",
+      "order": 10,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": []
+    },
+    {
+      "id": "c9-quimica",
+      "subjectId": "ciencias",
+      "title": "Reações químicas (intro)",
+      "slug": "reacoes-quimicas-intro",
+      "unit": "9º ano — Corpo, genética e Terra",
+      "order": 11,
+      "levels": [
+        "9ano"
+      ],
+      "bnccCodes": []
+    }
+  ]
+}

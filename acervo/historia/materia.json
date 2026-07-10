@@ -1,0 +1,10 @@
+{
+  "id": "historia",
+  "name": "História",
+  "slug": "historia",
+  "order": 1,
+  "levels": ["8ano", "9ano", "1medio"],
+  "color": "#8B4513",
+  "description": "Acervo de História para 8º ano, 9º ano e 1º colegial, organizado a partir da BNCC e fontes abertas.",
+  "updatedAt": "2026-07-10"
+}

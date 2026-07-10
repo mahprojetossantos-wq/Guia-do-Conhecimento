@@ -1,0 +1,28 @@
+{
+  "id": "content-i9-continuous",
+  "topicId": "i9-continuous",
+  "subjectId": "ingles",
+  "slug": "present-continuous",
+  "title": "Present Continuous",
+  "summary": "Ações em progresso.",
+  "body": "## Forma\n\nam/is/are + V-ing. Agora / no momento. Diferença com Simple Present (hábito × agora).",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [],
+  "unit": "9º ano",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Present Continuous\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Presente contínuo (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Presente_cont%C3%ADnuo",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

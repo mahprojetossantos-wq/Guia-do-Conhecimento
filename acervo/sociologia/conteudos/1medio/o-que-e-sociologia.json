@@ -1,0 +1,28 @@
+{
+  "id": "content-s1-o-que-e",
+  "topicId": "s1-o-que-e",
+  "subjectId": "sociologia",
+  "slug": "o-que-e-sociologia",
+  "title": "O que é Sociologia?",
+  "summary": "Estudo científico da sociedade.",
+  "body": "## Sociologia\n\nAnalisa relações sociais, instituições e desigualdades com método — além do senso comum.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"O que é Sociologia?\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Sociologia (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Sociologia",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

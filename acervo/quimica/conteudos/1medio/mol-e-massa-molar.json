@@ -1,0 +1,28 @@
+{
+  "id": "content-q1-mol",
+  "topicId": "q1-mol",
+  "subjectId": "quimica",
+  "slug": "mol-e-massa-molar",
+  "title": "Mol e massa molar",
+  "summary": "Quantidade de matéria.",
+  "body": "## Mol\n\n1 mol = 6,02×10²³ entidades. Massa molar (g/mol). Base de todo cálculo estequiométrico.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Fundamentos",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Mol e massa molar\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Mol (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Mol",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

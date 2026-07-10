@@ -1,0 +1,28 @@
+{
+  "id": "content-ef8-jogos",
+  "topicId": "ef8-jogos",
+  "subjectId": "educacao-fisica",
+  "slug": "jogos-e-brincadeiras",
+  "title": "Jogos e brincadeiras",
+  "summary": "Cultura lúdica e regras.",
+  "body": "## Jogo\n\nRegras, cooperação e conflito. Jogos tradicionais e adaptação inclusiva.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [],
+  "unit": "Cultura corporal e saúde",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Jogos e brincadeiras\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Jogo (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Jogo",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

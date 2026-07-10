@@ -1,0 +1,28 @@
+{
+  "id": "content-i1-connectors",
+  "topicId": "i1-connectors",
+  "subjectId": "ingles",
+  "slug": "connectors",
+  "title": "Connectors",
+  "summary": "however, therefore, although…",
+  "body": "## Coesão\n\nConectores organizam argumentos em redações e leituras. Liste 10 e pratique em frases.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Connectors\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Conjunção (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Conjun%C3%A7%C3%A3o",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

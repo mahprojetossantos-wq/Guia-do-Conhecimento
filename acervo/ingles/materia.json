@@ -1,0 +1,14 @@
+{
+  "id": "ingles",
+  "name": "Inglês",
+  "slug": "ingles",
+  "order": 9,
+  "levels": [
+    "8ano",
+    "9ano",
+    "1medio"
+  ],
+  "color": "#4F46E5",
+  "description": "Vocabulário, gramática e leitura em inglês — 8º, 9º e 1º médio.",
+  "updatedAt": "2026-07-10"
+}

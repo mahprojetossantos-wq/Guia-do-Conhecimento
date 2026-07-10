@@ -1,0 +1,31 @@
+{
+  "id": "content-h8-escravidao-abolicao",
+  "topicId": "h8-escravidao-abolicao",
+  "subjectId": "historia",
+  "slug": "escravidao-abolicionismo-imigracao",
+  "title": "Escravidão, abolicionismo e imigração",
+  "summary": "Do tráfico à Lei Áurea e os legados da escravidão.",
+  "body": "## Escravidão no século XIX\n\nMesmo após a independência, o Brasil manteve a escravidão. O fim do tráfico (Lei Eusébio de Queirós, 1850) e leis graduais (Ventre Livre, Sexagenários) antecederam a **Lei Áurea** (1888).\n\n## Abolicionismo\n\nImprensa, associações, fugas, revoltas e atuação de lideranças negras e aliados pressionaram o sistema. A abolição não veio com reforma agrária nem inclusão plena.\n\n## Imigração\n\nPolíticas migratórias trouxeram europeus (e outros grupos) para o trabalho, especialmente no café — em um projeto que também revelava racismo e exclusão da população negra libertada.\n\n## Legado\n\nDesigualdades, racismo estrutural e debates sobre ações afirmativas têm raízes nesse passado.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08HI19",
+    "EF08HI20"
+  ],
+  "unit": "O Brasil no século XIX",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Escravidão, abolicionismo e imigração\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Abolicionismo no Brasil (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Abolicionismo_no_Brasil",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

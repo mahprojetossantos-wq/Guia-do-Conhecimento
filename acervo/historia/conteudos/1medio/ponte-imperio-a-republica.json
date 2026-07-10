@@ -1,0 +1,28 @@
+{
+  "id": "content-h1-ponte-imperio-republica",
+  "topicId": "h1-ponte-imperio-republica",
+  "subjectId": "historia",
+  "slug": "ponte-imperio-a-republica",
+  "title": "Ponte: do Império à República (síntese)",
+  "summary": "Revisão rápida para o 1º ano do ensino médio.",
+  "body": "## Síntese para o médio\n\nRevise: Independência (1822), Império (centralização, café, escravidão, abolição) e Proclamação da República (1889). No ensino médio, o foco aumenta em **fontes**, **interpretações** e ligações entre Brasil e mundo.\n\nUse os tópicos do 8º e 9º como base e aprofunde com mapas, documentos e comparações.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º colegial — aprofundamento",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Ponte: do Império à República (síntese)\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — História do Brasil (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Hist%C3%B3ria_do_Brasil",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

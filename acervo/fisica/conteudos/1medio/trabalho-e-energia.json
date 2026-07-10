@@ -1,0 +1,28 @@
+{
+  "id": "content-f1-trabalho",
+  "topicId": "f1-trabalho",
+  "subjectId": "fisica",
+  "slug": "trabalho-e-energia",
+  "title": "Trabalho e energia",
+  "summary": "Trabalho, potência, energia cinética e potencial.",
+  "body": "## Energia mecânica\n\nEc = mv²/2; Ep gravitacional = mgh. Trabalho de uma força. Conservação quando só forças conservativas atuam.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Mecânica",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Trabalho e energia\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Energia mecânica (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Energia_mec%C3%A2nica",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

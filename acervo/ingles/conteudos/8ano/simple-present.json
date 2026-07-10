@@ -1,0 +1,28 @@
+{
+  "id": "content-i8-present",
+  "topicId": "i8-present",
+  "subjectId": "ingles",
+  "slug": "simple-present",
+  "title": "Simple Present",
+  "summary": "Hábitos e verdades gerais.",
+  "body": "## Use\n\nRotinas e fatos. Forma: V / V-s (he/she/it). Negativa com don't/doesn't. Perguntas com Do/Does.\n\n## Keywords\n\nalways, usually, often, sometimes, never.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [],
+  "unit": "8º ano",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Simple Present\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Presente simples (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Presente_simples",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

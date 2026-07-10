@@ -1,0 +1,28 @@
+{
+  "id": "content-c8-atomo",
+  "topicId": "c8-atomo",
+  "subjectId": "ciencias",
+  "slug": "atomo-e-tabela-periodica-intro",
+  "title": "Átomo e tabela periódica (intro)",
+  "summary": "Modelo atômico simples e organização dos elementos.",
+  "body": "## Átomo\n\nPrótons, nêutrons, elétrons. Número atômico. A tabela periódica organiza elementos por propriedades — base da Química do médio.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [],
+  "unit": "8º ano — Matéria, energia e vida",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Átomo e tabela periódica (intro)\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Átomo (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/%C3%81tomo",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

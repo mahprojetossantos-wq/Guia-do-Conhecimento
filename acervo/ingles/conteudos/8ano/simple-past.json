@@ -1,0 +1,28 @@
+{
+  "id": "content-i8-past",
+  "topicId": "i8-past",
+  "subjectId": "ingles",
+  "slug": "simple-past",
+  "title": "Simple Past",
+  "summary": "Ações concluídas no passado.",
+  "body": "## Regular × irregular\n\nVerbos regulares: -ed. Irregulares: lista (go→went). Negativa: didn't + base form.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [],
+  "unit": "8º ano",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Simple Past\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Passado simples (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Passado_simples",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

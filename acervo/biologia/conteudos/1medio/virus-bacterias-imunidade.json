@@ -1,0 +1,28 @@
+{
+  "id": "content-b1-virus",
+  "topicId": "b1-virus",
+  "subjectId": "biologia",
+  "slug": "virus-bacterias-imunidade",
+  "title": "Vírus, bactérias e imunidade",
+  "summary": "Micro-organismos e defesa do corpo.",
+  "body": "## Saúde\n\nVírus × bactérias. Vacinas e sistema imune. Antibióticos não tratam vírus.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio — Bases da Biologia",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Vírus, bactérias e imunidade\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Sistema imunitário (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Sistema_imunit%C3%A1rio",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

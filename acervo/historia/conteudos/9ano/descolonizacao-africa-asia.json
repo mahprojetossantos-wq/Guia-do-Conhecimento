@@ -1,0 +1,30 @@
+{
+  "id": "content-h9-descolonizacao",
+  "topicId": "h9-descolonizacao",
+  "subjectId": "historia",
+  "slug": "descolonizacao-africa-asia",
+  "title": "Descolonização na África e na Ásia",
+  "summary": "Fim dos impérios coloniais no século XX.",
+  "body": "## Processo\n\nApós a 2ª Guerra, colônias na Ásia e na África conquistaram independência — por negociação ou guerra. Novos Estados enfrentaram desafios econômicos e políticos legados do colonialismo.\n\n## Importância\n\nMostra o protagonismo dos povos colonizados e redesenha o mapa mundial contemporâneo.",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [
+    "EF09HI31"
+  ],
+  "unit": "História recente (mundo)",
+  "exercises": [
+    {
+      "q": "Em uma frase, diga por que \"Descolonização na África e na Ásia\" importa para entender o Brasil ou o mundo atual.",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois conceitos ou acontecimentos centrais deste tópico.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Descolonização (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Descoloniza%C3%A7%C3%A3o",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

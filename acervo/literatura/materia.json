@@ -1,0 +1,13 @@
+{
+  "id": "literatura",
+  "name": "Literatura",
+  "slug": "literatura",
+  "order": 10,
+  "levels": [
+    "1medio",
+    "9ano"
+  ],
+  "color": "#BE123C",
+  "description": "Escolas literárias e leitura literária — foco no 1º médio (com ponte no 9º).",
+  "updatedAt": "2026-07-10"
+}

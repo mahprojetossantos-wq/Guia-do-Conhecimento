@@ -1,0 +1,30 @@
+{
+  "id": "content-m8-area",
+  "topicId": "m8-area",
+  "subjectId": "matematica",
+  "slug": "areas-de-figuras-planas",
+  "title": "Áreas de figuras planas",
+  "summary": "Retângulo, triângulo, paralelogramo, trapézio e círculo.",
+  "body": "## Fórmulas básicas\n\nRetângulo: b×h. Triângulo: (b×h)/2. Círculo: πr². Decomponha figuras compostas.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [
+    "EF08MA19"
+  ],
+  "unit": "8º ano — Geometria e grandezas",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Áreas de figuras planas\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Área (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/%C3%81rea",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

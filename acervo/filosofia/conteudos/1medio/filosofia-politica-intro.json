@@ -1,0 +1,28 @@
+{
+  "id": "content-fil1-politica",
+  "topicId": "fil1-politica",
+  "subjectId": "filosofia",
+  "slug": "filosofia-politica-intro",
+  "title": "Filosofia política (intro)",
+  "summary": "Poder, justiça e cidadania.",
+  "body": "## Perguntas\n\nO que é justiça? Por que obedecer leis? Democracia, direitos e desigualdade — ligue a temas atuais com cuidado conceitual.",
+  "levels": [
+    "1medio"
+  ],
+  "bnccCodes": [],
+  "unit": "1º médio",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Filosofia política (intro)\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Filosofia política (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Filosofia_pol%C3%ADtica",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

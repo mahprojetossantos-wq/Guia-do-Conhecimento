@@ -1,0 +1,12 @@
+{
+  "id": "fisica",
+  "name": "Física",
+  "slug": "fisica",
+  "order": 7,
+  "levels": [
+    "1medio"
+  ],
+  "color": "#0284C7",
+  "description": "Física do 1º colegial — cinemática, dinâmica, energia e introdução a ondas.",
+  "updatedAt": "2026-07-10"
+}

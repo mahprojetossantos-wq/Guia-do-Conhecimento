@@ -1,0 +1,28 @@
+{
+  "id": "content-c8-materia",
+  "topicId": "c8-materia",
+  "subjectId": "ciencias",
+  "slug": "materia-e-suas-propriedades",
+  "title": "Matéria e suas propriedades",
+  "summary": "Estados físicos, mudanças e misturas.",
+  "body": "## Matéria\n\nTudo que tem massa e ocupa lugar. Estados e mudanças (fusão, ebulição…). Substâncias e misturas; métodos de separação.",
+  "levels": [
+    "8ano"
+  ],
+  "bnccCodes": [],
+  "unit": "8º ano — Matéria, energia e vida",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Matéria e suas propriedades\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Matéria (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Mat%C3%A9ria",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}

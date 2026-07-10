@@ -1,0 +1,28 @@
+{
+  "id": "content-c9-quimica",
+  "topicId": "c9-quimica",
+  "subjectId": "ciencias",
+  "slug": "reacoes-quimicas-intro",
+  "title": "Reações químicas (intro)",
+  "summary": "Conservação da massa e tipos de reação.",
+  "body": "## Reação\n\nReagentes → produtos. Evidências: gás, precipitação, mudança de cor/temperatura. Lei de Lavoisier (visão escolar).",
+  "levels": [
+    "9ano"
+  ],
+  "bnccCodes": [],
+  "unit": "9º ano — Corpo, genética e Terra",
+  "exercises": [
+    {
+      "q": "Resuma em 2–3 frases o tópico \"Reações químicas (intro)\".",
+      "type": "aberta"
+    },
+    {
+      "q": "Cite dois pontos principais deste conteúdo.",
+      "type": "aberta"
+    }
+  ],
+  "source": "Wikipedia (pt) — Reação química (adaptado)",
+  "sourceUrl": "https://pt.wikipedia.org/wiki/Rea%C3%A7%C3%A3o_qu%C3%ADmica",
+  "license": "CC BY-SA 4.0 — texto adaptado para uso escolar; atribuição mantida",
+  "updatedAt": "2026-07-10"
+}
